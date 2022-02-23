@@ -165,6 +165,7 @@ A curated list of awesome computing/programming resources.
 * [Introduction to asynchronous IO][71] - A tiny introduction to asynchronous IO
 * [systemd historical and technical retrospective][85] - systemd, 10 years later: a historical and technical retrospective
 * [The hidden early history of Unix ][93] - The hidden early history of Unix
+* [Systemd essentials][104] - Systemd Essentials: Working with Services, Units, and the Journal
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -287,3 +288,4 @@ A curated list of awesome computing/programming resources.
 [101]: https://tinygo.org/
 [102]: https://github.com/quickemu-project/quickemu
 [103]: https://www.zettlr.com/
+[104]: https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
