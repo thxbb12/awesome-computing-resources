@@ -9,6 +9,7 @@ A curated list of awesome computing/programming resources.
 * [Compilation](#compilation)
 * [Computer graphics](#computer-graphics)
 * [Conferences](#conferences)
+* [Courses](#courses)
 * [Editors](#editors)
 * [Embedded systems](#embedded-systems)
 * [Hacks](#hacks)
@@ -56,6 +57,9 @@ A curated list of awesome computing/programming resources.
 * [orx][27] - Open source, portable, lightweight, plugin-based, data-driven and extremely easy to use 2D-oriented game engine (C)
 * [csfml][30] - Simple and Fast Multimedia Library to ease the development of games and multimedia applications (C)
 
+## Courses
+* [Awesome CS Courses][111] - Awesome Computer Science Courses
+
 ## Conferences
 * [fosdem][87] - FOSDEM talks archives. Free and Open source Software Developers' European Meeting (FOSDEM) is a non-commercial, volunteer-organized European event centered on free and open-source software development.
 
@@ -70,7 +74,9 @@ A curated list of awesome computing/programming resources.
 * [uC-OS3][65] - µC/OS-III is a highly portable, ROMable, scalable, preemptive, real-time, deterministic, multitasking kernel for CPU, MPU and DSP.
 * [embedded][66] - The resource for everything embedded systems designers and developers need to do their jobs
 * [build an embedded Linux system][72] - So you want to build an embedded Linux system?
-* [synthos][73] - Synthesize your own optimized, custom real time operating system (RTOS).
+* [synthos][73] - Synthesize your own optimized, custom real time operating system (RTOS)
+* [BBC microbit][112] - The BBC micro:bit is a pocket-sized computer that introduces you to how software and hardware work together
+* [BBC microbit hardware][113] - Detailed description of the BBC micro:bit's hardware
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -103,11 +109,14 @@ A curated list of awesome computing/programming resources.
 * [IPFS][61] - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
 
 ## Operating systems
+* [Genode][105] - The Genode OS Framework is a tool kit for building highly secure special-purpose operating systems
 * [Plan9][97] - Plan 9 from Bell Labs is a distributed OS designed to make a network of heterogeneous and geographically separated computers function as a single system
 * [Inferno][98] - Inferno was created to bring ideas of Plan to a wider range of devices and networks
 * [HelenOS][99] - HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch
 * [Serenity OS][51] - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core
 * [x86-bare-metal-examples][52] - Dozens of minimal operating systems to learn x86 system programming
+* [Rust RISC-V OS][109] - The Adventures of OS: Making a RISC-V Operating System using Rust
+* [OS in Rust][114] - Writing an OS in Rust
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -176,14 +185,18 @@ A curated list of awesome computing/programming resources.
 * [Cool, but obscure unix tools][39] - A little collection of cool unix terminal/console/curses tools
 
 ## Virtualization
+* [ARM virtualization][106] - An in-depth look into the ARM virtualization extensions
 * [QuickEmu][102] - Quickly create and run highly optimised desktop virtual machines with just two commands
 * [Firecracker][53] - Secure and fast microVMs for serverless computing
+* [NOVA][107] - Research project aimed at constructing a secure virtualization environment with a small trusted computing base
+* [NOVA microhypervisor][108] - Source code of the NOVA microhypervisor
 * [NoVM][75] - novm is a legacy-free, type 2 hypervisor written in Go. Its goal is to provide an alternate, high-performance Linux hypervisor for cloud workloads.
 * [xen guide][80] - Xen Project Beginners Guide
 * [xen modes][81] - Xen Modes: What Color Is Your Xen?
 * [Ravada][77] - Free, easy-to-use & deploy VDI solution. Ravada is an open-source project that allows users to connect to a virtual desktop.
 * [Docker internals][55] - Docker Internals, a deep dive into Docker for engineers interested in the gritty details
 * [Under the hood of Docker][76] - Under the hood of Docker
+* [Containers 500LOC][110] - Linux containers in 500 lines of code
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -289,3 +302,13 @@ A curated list of awesome computing/programming resources.
 [102]: https://github.com/quickemu-project/quickemu
 [103]: https://www.zettlr.com/
 [104]: https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
+[105]: https://genode.org/index
+[106]: https://genode.org/documentation/articles/arm_virtualization
+[107]: http://hypervisor.org/
+[108]: https://github.com/udosteinberg/NOVA
+[109]: https://osblog.stephenmarz.com/
+[110]: https://blog.lizzie.io/linux-containers-in-500-loc.html
+[111]: https://github.com/prakhar1989/awesome-courses
+[112]: https://microbit.org/
+[113]: https://tech.microbit.org/hardware/
+[114]: https://os.phil-opp.com/
