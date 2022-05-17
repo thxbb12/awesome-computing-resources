@@ -15,7 +15,10 @@ A curated list of awesome computing/programming resources.
 * [Hacks](#hacks)
 * [Funny](#funny)
 * [Games](#games)
+* [Golang](#golang)
 * [Graphs/charts/diagrams](#graphs-charts-diagrams)
+* [Hacks](#hacks)
+* [Hardware](#hardware)
 * [Linux](#linux)
 * [Machine learning](#machine-learning)
 * [Networking](#networking)
@@ -83,6 +86,9 @@ A curated list of awesome computing/programming resources.
 
 ## Games
 * [bevy][89] - A refreshingly simple data-driven game engine built in Rust
+
+## Golang
+* [awesome-go][115] - A curated list of awesome Go frameworks, libraries and software
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -312,3 +318,4 @@ A curated list of awesome computing/programming resources.
 [112]: https://microbit.org/
 [113]: https://tech.microbit.org/hardware/
 [114]: https://os.phil-opp.com/
+[115]: https://github.com/avelino/awesome-go
