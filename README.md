@@ -28,7 +28,7 @@ A curated list of awesome computing/programming resources.
 * [Security](#security)
 * [Search engines](#search-engines)
 * [Shell](#shell)
-* [Systems](#system)
+* [Systems](#systems)
 * [Text editors/processing](#text-editors)
 * [Tools](#tools)
 * [Virtualization](#virtualization)
@@ -89,6 +89,9 @@ A curated list of awesome computing/programming resources.
 
 ## Golang
 * [awesome-go][115] - A curated list of awesome Go frameworks, libraries and software
+* [go-101][116] - Go 101 is a series of books on Go programming
+* [echo][117] - Echo is a high performance, extensible, minimalist Go web framework
+* [go documentation][118] - Official Go documentation
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -127,6 +130,7 @@ A curated list of awesome computing/programming resources.
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
 * [LeetCode][62] - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+* [meson build][120] - Meson is an open source build system meant to be both extremely fast, and as user friendly as possible
 
 ## Rust
 * [The Rust Programming Language][24] - Book "The Rust Programming Language book"
@@ -181,6 +185,7 @@ A curated list of awesome computing/programming resources.
 * [systemd historical and technical retrospective][85] - systemd, 10 years later: a historical and technical retrospective
 * [The hidden early history of Unix ][93] - The hidden early history of Unix
 * [Systemd essentials][104] - Systemd Essentials: Working with Services, Units, and the Journal
+* [AppImageKit][119] - AppImageKit is a concrete implementation of the AppImage format
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -319,3 +324,8 @@ A curated list of awesome computing/programming resources.
 [113]: https://tech.microbit.org/hardware/
 [114]: https://os.phil-opp.com/
 [115]: https://github.com/avelino/awesome-go
+[116]: https://github.com/go101/
+[117]: https://echo.labstack.com/
+[118]: https://go.dev/doc/
+[119]: https://github.com/AppImage/AppImageKit
+[120]: https://mesonbuild.com/
