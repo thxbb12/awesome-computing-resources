@@ -92,6 +92,8 @@ A curated list of awesome computing/programming resources.
 * [go-101][116] - Go 101 is a series of books on Go programming
 * [echo][117] - Echo is a high performance, extensible, minimalist Go web framework
 * [go documentation][118] - Official Go documentation
+* [Effective Go][121] - Effective Go short book
+* [Go by Example][122] - Go by Example is a hands-on introduction to Go using annotated example programs
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -329,3 +331,5 @@ A curated list of awesome computing/programming resources.
 [118]: https://go.dev/doc/
 [119]: https://github.com/AppImage/AppImageKit
 [120]: https://mesonbuild.com/
+[121]: https://go.dev/doc/effective_go
+[122]: https://gobyexample.com/
