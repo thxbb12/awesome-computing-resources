@@ -133,6 +133,8 @@ A curated list of awesome computing/programming resources.
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
 * [LeetCode][62] - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 * [meson build][120] - Meson is an open source build system meant to be both extremely fast, and as user friendly as possible
+* [ttt-bench][123] - Benchmark comparing the speed of many languages on a Tic-Tac-Toe solver
+* [Benchmarks Game][124] Compare the performance of many languages across many tests
 
 ## Rust
 * [The Rust Programming Language][24] - Book "The Rust Programming Language book"
@@ -333,3 +335,5 @@ A curated list of awesome computing/programming resources.
 [120]: https://mesonbuild.com/
 [121]: https://go.dev/doc/effective_go
 [122]: https://gobyexample.com/
+[123]: https://github.com/BartMassey/ttt-bench
+[124]: https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
