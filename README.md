@@ -118,6 +118,7 @@ A curated list of awesome computing/programming resources.
 
 ## Networking
 * [IPFS][61] - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
+* [sshuttle][125] - Transparent proxy server that works as a poor man's VPN. Forwards over ssh.
 
 ## Operating systems
 * [Genode][105] - The Genode OS Framework is a tool kit for building highly secure special-purpose operating systems
@@ -337,3 +338,4 @@ A curated list of awesome computing/programming resources.
 [122]: https://gobyexample.com/
 [123]: https://github.com/BartMassey/ttt-bench
 [124]: https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+[125]: https://github.com/sshuttle/sshuttle
