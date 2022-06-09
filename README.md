@@ -94,6 +94,8 @@ A curated list of awesome computing/programming resources.
 * [go documentation][118] - Official Go documentation
 * [Effective Go][121] - Effective Go short book
 * [Go by Example][122] - Go by Example is a hands-on introduction to Go using annotated example programs
+* [Resty][126] - Simple HTTP and REST client library for Go
+* [Req][127] -  Simple Go HTTP client with Black Magic
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -339,3 +341,5 @@ A curated list of awesome computing/programming resources.
 [123]: https://github.com/BartMassey/ttt-bench
 [124]: https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 [125]: https://github.com/sshuttle/sshuttle
+[126]: https://github.com/go-resty/resty
+[127]: https://github.com/imroc/req
