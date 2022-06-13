@@ -59,6 +59,7 @@ A curated list of awesome computing/programming resources.
 * [raylib for Linux][29] - How to build raylib on Linux
 * [orx][27] - Open source, portable, lightweight, plugin-based, data-driven and extremely easy to use 2D-oriented game engine (C)
 * [csfml][30] - Simple and Fast Multimedia Library to ease the development of games and multimedia applications (C)
+* [thebookofshaders][130] - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 
 ## Courses
 * [Awesome CS Courses][111] - Awesome Computer Science Courses
@@ -96,6 +97,9 @@ A curated list of awesome computing/programming resources.
 * [Go by Example][122] - Go by Example is a hands-on introduction to Go using annotated example programs
 * [Resty][126] - Simple HTTP and REST client library for Go
 * [Req][127] -  Simple Go HTTP client with Black Magic
+* [Fyne][128] - Cross platform GUI in Go inspired by Material Design
+* [gotk3][129] - Go bindings for GTK3
+* [golang tutorials][131] - Golang tutorial series
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -343,3 +347,7 @@ A curated list of awesome computing/programming resources.
 [125]: https://github.com/sshuttle/sshuttle
 [126]: https://github.com/go-resty/resty
 [127]: https://github.com/imroc/req
+[128]: https://github.com/fyne-io/fyne
+[129]: https://github.com/gotk3/gotk3
+[130]: https://thebookofshaders.com/
+[131]: https://golangbot.com/learn-golang-series/
