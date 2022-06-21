@@ -100,6 +100,8 @@ A curated list of awesome computing/programming resources.
 * [Fyne][128] - Cross platform GUI in Go inspired by Material Design
 * [gotk3][129] - Go bindings for GTK3
 * [golang tutorials][131] - Golang tutorial series
+* [go for C dev][132] - Go for C programmers
+* [Organizing Go code][133] - Organizing Go code
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -161,6 +163,7 @@ A curated list of awesome computing/programming resources.
 
 ## Security
 * [urandom myths][96] - Myths about /dev/urandom
+* [revers engineering][136] - Security research blog
 
 ## Shell
 * [fzf][4] - A command-line fuzzy finder.
@@ -197,6 +200,7 @@ A curated list of awesome computing/programming resources.
 * [The hidden early history of Unix ][93] - The hidden early history of Unix
 * [Systemd essentials][104] - Systemd Essentials: Working with Services, Units, and the Journal
 * [AppImageKit][119] - AppImageKit is a concrete implementation of the AppImage format
+* [FAI][137] - FAI is a tool for unattended mass deployment of Linux
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -219,6 +223,8 @@ A curated list of awesome computing/programming resources.
 * [Docker internals][55] - Docker Internals, a deep dive into Docker for engineers interested in the gritty details
 * [Under the hood of Docker][76] - Under the hood of Docker
 * [Containers 500LOC][110] - Linux containers in 500 lines of code
+* [MMU virt via Intel EPT][134] - MMU Virtualization via Intel EPT: Implementation
+* [hypervisor-from-scratch][135] - Series of tutorials about implementing an hypervisor
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -351,3 +357,9 @@ A curated list of awesome computing/programming resources.
 [129]: https://github.com/gotk3/gotk3
 [130]: https://thebookofshaders.com/
 [131]: https://golangbot.com/learn-golang-series/
+[132]: https://talks.golang.org/2012/goforc.slide
+[133]: https://talks.golang.org/2014/organizeio.slide
+[134]: https://revers.engineering/mmu-virtualization-impl-p1/
+[135]: https://github.com/SinaKarvandi/Hypervisor-From-Scratch/
+[136]: https://revers.engineering/
+[137]: https://fai-project.org/
