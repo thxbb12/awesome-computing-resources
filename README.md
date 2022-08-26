@@ -5,6 +5,7 @@ A curated list of awesome computing/programming resources.
 ## Contents
 * [Bioinformatics](#bioinformatics)
 * [Blogs](#blogs)
+* [Books](#books)
 * [C](#c)
 * [Compilation](#compilation)
 * [Computer graphics](#computer-graphics)
@@ -41,6 +42,9 @@ A curated list of awesome computing/programming resources.
 * [Christine Dodrill][47] - Christine Dodrill's blog (web and backend services devops)
 * [Mathieu Ropert][57] - A blog about C++ with a bit of a French touch
 * [The Overflow][58] - The Stackoverflow Blog
+
+## Books
+* [SystemsApproach book][138] - Computer Networks: A Systems Approach
 
 ## C
 * [awesome-c][8] - A curated list of awesome C frameworks, libraries, resources and other shiny things.
@@ -363,3 +367,4 @@ A curated list of awesome computing/programming resources.
 [135]: https://github.com/SinaKarvandi/Hypervisor-From-Scratch/
 [136]: https://revers.engineering/
 [137]: https://fai-project.org/
+[138]: https://github.com/SystemsApproach/book
