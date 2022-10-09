@@ -6,6 +6,7 @@ A curated list of awesome computing/programming resources.
 * [Bioinformatics](#bioinformatics)
 * [Blogs](#blogs)
 * [Books](#books)
+* [Bootloaders](#bootloaders)
 * [C](#c)
 * [Compilation](#compilation)
 * [Computer graphics](#computer-graphics)
@@ -45,6 +46,18 @@ A curated list of awesome computing/programming resources.
 
 ## Books
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
+
+## Bootloaders
+* [POSIX-UEFI][142] - Dependency-free POSIX compatibility layer and build environment for UEFI
+* [The rEFInd Boot Manager][15] - A boot manager for computers based on EFI and Unified EFI (UEFI).
+* [bootboot][86] - BOOTBOOT has the opposite philosophy than GRUB: a set of simple and small loaders which provide the same boot environment for your kernel on different 64-bits platforms.
+* [Managing EFI Boot Loaders for Linux][16] - Resources on EFI boot, secure boot, boot loaders and managers.
+* [UEFI boot][69] - UEFI boot: how does that actually work, then?
+* [Plop Boot Manager][17] - The Plop Boot Manager is a small program to boot different operating systems.
+* [The Syslinux Project][18] - The SYSLINUX Project is a suite of lightweight MBR boot loaders for starting up PCs with the Linux kernel.
+* [Linux on UEFI][74] - Linux on UEFI: A Quick Installation Guide
+* [GOP][141] - Programming EFI Graphics Output Protocol (GOP) services
+* [GNU-EFI][143] - GNU-EFI is a very lightweight developing environment to create UEFI applications using a system's native GCC.
 
 ## C
 * [awesome-c][8] - A curated list of awesome C frameworks, libraries, resources and other shiny things.
@@ -141,6 +154,8 @@ A curated list of awesome computing/programming resources.
 * [x86-bare-metal-examples][52] - Dozens of minimal operating systems to learn x86 system programming
 * [Rust RISC-V OS][109] - The Adventures of OS: Making a RISC-V Operating System using Rust
 * [OS in Rust][114] - Writing an OS in Rust
+* [managarm][139] - Pragmatic microkernel-based OS with fully asynchronous I/O
+* [tilck][140] -  A Tiny educational Linux-Compatible kernel
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -182,13 +197,6 @@ A curated list of awesome computing/programming resources.
 ## Systems
 * [gocrazy][100] - Replace Linux' core system layer by a pure and safe Go implementation
 * [The TTY demystified][22] - The TTY demystified
-* [The rEFInd Boot Manager][15] - A boot manager for computers based on EFI and Unified EFI (UEFI).
-* [bootboot][86] - BOOTBOOT has the opposite philosophy than GRUB: a set of simple and small loaders which provide the same boot environment for your kernel on different 64-bits platforms. 
-* [Managing EFI Boot Loaders for Linux][16] - Resources on EFI boot, secure boot, boot loaders and managers.
-* [UEFI boot][69] - UEFI boot: how does that actually work, then?
-* [Linux on UEFI][74] - Linux on UEFI: A Quick Installation Guide
-* [Plop Boot Manager][17] - The Plop Boot Manager is a small program to boot different operating systems.
-* [The Syslinux Project][18] - The SYSLINUX Project is a suite of lightweight MBR boot loaders for starting up PCs with the Linux kernel.
 * [collectd][33] - The system statistics collection daemon.
 * [graphite][34] - Store numeric time-series data and render graphs of this data on demand.
 * [grafana][35] - The open platform for beautiful analytics and monitoring.
@@ -368,3 +376,8 @@ A curated list of awesome computing/programming resources.
 [136]: https://revers.engineering/
 [137]: https://fai-project.org/
 [138]: https://github.com/SystemsApproach/book
+[139]: https://github.com/managarm/managarm
+[140]: https://github.com/vvaltchev/tilck
+[141]: https://wiki.osdev.org/GOP
+[142]: https://gitlab.com/bztsrc/posix-uefi
+[143]: https://wiki.osdev.org/GNU-EFI
