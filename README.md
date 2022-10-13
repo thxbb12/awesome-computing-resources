@@ -68,6 +68,7 @@ A curated list of awesome computing/programming resources.
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
+* [llvm backend][144] - Creating an LLVM Backend for the Cpu0 Architecture
 
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
@@ -381,3 +382,4 @@ A curated list of awesome computing/programming resources.
 [141]: https://wiki.osdev.org/GOP
 [142]: https://gitlab.com/bztsrc/posix-uefi
 [143]: https://wiki.osdev.org/GNU-EFI
+[144]: https://jonathan2251.github.io/lbd/llvmstructure.html
