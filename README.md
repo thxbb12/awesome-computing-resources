@@ -105,6 +105,12 @@ A curated list of awesome computing/programming resources.
 
 ## Games
 * [bevy][89] - A refreshingly simple data-driven game engine built in Rust
+* [godot][145] - Godot is a cross-platform, free and open-source game engine
+* [armory][146] - Armory is an open-source 3D game engine with full Blender integration
+* [ogre][147] - OGRE is a scene-oriented, flexible, open-source 3D engine
+* [o3de][148] - O3DE is an open-source, multi-platform 3D engine
+* [panda3d][149] - Panda3D is an open-source, completely free-to-use engine for realtime 3D games
+* [phaser][150] - Phaser is a free and fast 2D game framework for making HTML5 games
 
 ## Golang
 * [awesome-go][115] - A curated list of awesome Go frameworks, libraries and software
@@ -383,3 +389,9 @@ A curated list of awesome computing/programming resources.
 [142]: https://gitlab.com/bztsrc/posix-uefi
 [143]: https://wiki.osdev.org/GNU-EFI
 [144]: https://jonathan2251.github.io/lbd/llvmstructure.html
+[145]: https://godotengine.org/
+[146]: https://armory3d.org/
+[147]: https://www.ogre3d.org/
+[148]: https://www.o3de.org/
+[149]: https://www.panda3d.org/
+[150]: https://phaser.io/
