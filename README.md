@@ -207,6 +207,7 @@ A curated list of awesome computing/programming resources.
 * [collectd][33] - The system statistics collection daemon.
 * [graphite][34] - Store numeric time-series data and render graphs of this data on demand.
 * [grafana][35] - The open platform for beautiful analytics and monitoring.
+* [sysstat][151] - Performance monitoring tools for Linux 
 * [fosdem19][38] - FOSDEM (Free and Open source Software Developers' European Meeting) 2019 talks and papers
 * [supervisord][48] - Supervisor: A Process Control System
 * [pic shared libs][50] - Position Independent Code (PIC) in shared libraries 
@@ -395,3 +396,4 @@ A curated list of awesome computing/programming resources.
 [148]: https://www.o3de.org/
 [149]: https://www.panda3d.org/
 [150]: https://phaser.io/
+[151]: https://github.com/florentgluck/awesome-computing-resources
