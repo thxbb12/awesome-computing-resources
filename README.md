@@ -15,6 +15,7 @@ A curated list of awesome computing/programming resources.
 * [Editors](#editors)
 * [Embedded systems](#embedded-systems)
 * [Hacks](#hacks)
+* [Filesystems](#filesystems)
 * [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
@@ -58,6 +59,7 @@ A curated list of awesome computing/programming resources.
 * [Linux on UEFI][74] - Linux on UEFI: A Quick Installation Guide
 * [GOP][141] - Programming EFI Graphics Output Protocol (GOP) services
 * [GNU-EFI][143] - GNU-EFI is a very lightweight developing environment to create UEFI applications using a system's native GCC.
+* [GRUB rescue on UEFI][158] - GRUB rescue on UEFI based systems
 
 ## C
 * [awesome-c][8] - A curated list of awesome C frameworks, libraries, resources and other shiny things.
@@ -100,6 +102,10 @@ A curated list of awesome computing/programming resources.
 * [BBC microbit][112] - The BBC micro:bit is a pocket-sized computer that introduces you to how software and hardware work together
 * [BBC microbit hardware][113] - Detailed description of the BBC micro:bit's hardware
 
+## Filesystems
+* [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
+* [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
+
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
 
@@ -137,6 +143,7 @@ A curated list of awesome computing/programming resources.
 
 ## Hardware
 * [piper][90] - The Piper Computer Kit is the ultimate DIY computer-building experience. Build a REAL computer from start to finish.
+* [how dram works][154] - How does Computer Memory Work?
 
 ## Linux
 * [Linux Kernel Monkey Log][19] - Greg Kroah-Hartman's blog (Linux kernel maintainer)
@@ -190,6 +197,9 @@ A curated list of awesome computing/programming resources.
 ## Security
 * [urandom myths][96] - Myths about /dev/urandom
 * [revers engineering][136] - Security research blog
+* [apparmor guide][153] - The Comprehensive Guide To AppArmor
+* [openssh priv key][161] - Public key cryptography: OpenSSH private keys
+* [ssh tunneling][162] - SSH Tunneling Explained
 
 ## Shell
 * [fzf][4] - A command-line fuzzy finder.
@@ -221,6 +231,8 @@ A curated list of awesome computing/programming resources.
 * [Systemd essentials][104] - Systemd Essentials: Working with Services, Units, and the Journal
 * [AppImageKit][119] - AppImageKit is a concrete implementation of the AppImage format
 * [FAI][137] - FAI is a tool for unattended mass deployment of Linux
+* [bios keys][152] - Liste des touches accès au BIOS ou Boot menu par constructeur
+* [hello world][155] - Hello World under the microscope
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -245,6 +257,8 @@ A curated list of awesome computing/programming resources.
 * [Containers 500LOC][110] - Linux containers in 500 lines of code
 * [MMU virt via Intel EPT][134] - MMU Virtualization via Intel EPT: Implementation
 * [hypervisor-from-scratch][135] - Series of tutorials about implementing an hypervisor
+* [rootless docker][159] - Run the Docker daemon as a non-root user
+* [embvm-core][160] - Embedded Virtual Machine Core Project
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -397,3 +411,14 @@ A curated list of awesome computing/programming resources.
 [149]: https://www.panda3d.org/
 [150]: https://phaser.io/
 [151]: https://github.com/florentgluck/awesome-computing-resources
+[152]: https://www.malekal.com/liste-touches-acces-bios-boot-menu-constructeur/#Touche_raccourcis_acces_au_BIOS_ou_boot_menu
+[153]: https://medium.com/information-and-technology/so-what-is-apparmor-64d7ae211ed
+[154]: https://www.youtube.com/watch?v=7J7X7aZvMXQ
+[155]: https://gynvael.coldwind.pl/?id=754
+[156]: https://adil.medium.com/ext4-filesystem-data-blocks-super-blocks-inode-structure-1afb95c8e4ab
+[157]: https://link.springer.com/article/10.1007/s11036-019-01441-1
+[158]: https://medium.com/@Arnab_Sat/grub-rescue-on-uefi-based-systems-7bf520e414aa
+[159]: https://docs.docker.com/engine/security/rootless/
+[160]: https://github.com/embvm/embvm-core/
+[161]: https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
+[162]: https://goteleport.com/blog/ssh-tunneling-explained/
