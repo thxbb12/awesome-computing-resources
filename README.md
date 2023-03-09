@@ -71,6 +71,7 @@ A curated list of awesome computing/programming resources.
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
 * [llvm backend][144] - Creating an LLVM Backend for the Cpu0 Architecture
+* [emscripten][165] - Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
 
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
@@ -101,6 +102,7 @@ A curated list of awesome computing/programming resources.
 * [synthos][73] - Synthesize your own optimized, custom real time operating system (RTOS)
 * [BBC microbit][112] - The BBC micro:bit is a pocket-sized computer that introduces you to how software and hardware work together
 * [BBC microbit hardware][113] - Detailed description of the BBC micro:bit's hardware
+* [linux emb yocto][167] - Linux embarqué avec Yocto Project
 
 ## Filesystems
 * [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
@@ -151,6 +153,7 @@ A curated list of awesome computing/programming resources.
 * [Greg K-H's Linux Stuff][21] - Greg K-H's Linux Stuff (slides, talks, udev, hotplug, usb, etc.)
 * [NixOS][36] - NixOS is a GNU/Linux distribution that aims to improve the state of the art in system configuration management (reliable and atomic upgrades, rollbacks, etc.)
 * [Guix][37] - Guix is a GNU/Linux distribution that supports transactional upgrades, rollbacks, unprivileged package management, etc.
+* [vramfs][170] - VRAM based file system for Linux
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -233,6 +236,8 @@ A curated list of awesome computing/programming resources.
 * [FAI][137] - FAI is a tool for unattended mass deployment of Linux
 * [bios keys][152] - Liste des touches accès au BIOS ou Boot menu par constructeur
 * [hello world][155] - Hello World under the microscope
+* [Cubic][163] - Custom Ubuntu ISO Creator
+* [Debian Live][164] - The Debian Live project produces the framework used to build live systems based on Debian
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -259,6 +264,9 @@ A curated list of awesome computing/programming resources.
 * [hypervisor-from-scratch][135] - Series of tutorials about implementing an hypervisor
 * [rootless docker][159] - Run the Docker daemon as a non-root user
 * [embvm-core][160] - Embedded Virtual Machine Core Project
+* [virtio driver][166] - Virtio driver implementation example
+* [vmm from scratch][168] - Hypervisor from scratch using Intel VT-x
+* [containers from scratch][169] - Containers from scratch
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -422,3 +430,11 @@ A curated list of awesome computing/programming resources.
 [160]: https://github.com/embvm/embvm-core/
 [161]: https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
 [162]: https://goteleport.com/blog/ssh-tunneling-explained/
+[163]: https://github.com/PJ-Singh-001/Cubic
+[164]: https://wiki.debian.org/DebianLive/
+[165]: https://emscripten.org/
+[166]: http://www.dumais.io/index.php?article=aca38a9a2b065b24dfa1dee728062a12
+[167]: https://www.blaess.fr/christophe/yocto-lab/index.html
+[168]: http://www.dumais.io/index.php?article=ac3267239dd3e34c061de6413203fb98
+[169]: http://www.dumais.io/index.php?article=541cd30aa440e24f6a6f67eea9ce7caf
+[170]: https://github.com/Overv/vramfs
