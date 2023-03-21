@@ -72,6 +72,7 @@ A curated list of awesome computing/programming resources.
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
 * [llvm backend][144] - Creating an LLVM Backend for the Cpu0 Architecture
 * [emscripten][165] - Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
+* [disasm.pro][171] - Online dissassembler for many architectures
 
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
@@ -438,3 +439,4 @@ A curated list of awesome computing/programming resources.
 [168]: http://www.dumais.io/index.php?article=ac3267239dd3e34c061de6413203fb98
 [169]: http://www.dumais.io/index.php?article=541cd30aa440e24f6a6f67eea9ce7caf
 [170]: https://github.com/Overv/vramfs
+[171]: https://disasm.pro/
