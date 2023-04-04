@@ -181,6 +181,7 @@ A curated list of awesome computing/programming resources.
 * [meson build][120] - Meson is an open source build system meant to be both extremely fast, and as user friendly as possible
 * [ttt-bench][123] - Benchmark comparing the speed of many languages on a Tic-Tac-Toe solver
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
+* [Language benchmarks][172] Programming language and compiler benchmarks
 
 ## Rust
 * [The Rust Programming Language][24] - Book "The Rust Programming Language book"
@@ -440,3 +441,4 @@ A curated list of awesome computing/programming resources.
 [169]: http://www.dumais.io/index.php?article=541cd30aa440e24f6a6f67eea9ce7caf
 [170]: https://github.com/Overv/vramfs
 [171]: https://disasm.pro/
+[172]: https://programming-language-benchmarks.vercel.app/
