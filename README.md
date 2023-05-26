@@ -67,6 +67,7 @@ A curated list of awesome computing/programming resources.
 * [PIC, PIE and Sanitizers][56] - PIC, PIE and Sanitizers
 * [libmill][78] - Libmill is a library that introduces Go-style concurrency to C.
 * [coroutines C][79] - Coroutines in C.
+* [SectorC][173] - SectorC: A C Compiler in 512 bytes.
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
@@ -442,3 +443,4 @@ A curated list of awesome computing/programming resources.
 [170]: https://github.com/Overv/vramfs
 [171]: https://disasm.pro/
 [172]: https://programming-language-benchmarks.vercel.app/
+[173]: https://xorvoid.com/sectorc.html
