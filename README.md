@@ -175,6 +175,8 @@ A curated list of awesome computing/programming resources.
 * [OS in Rust][114] - Writing an OS in Rust
 * [managarm][139] - Pragmatic microkernel-based OS with fully asynchronous I/O
 * [tilck][140] -  A Tiny educational Linux-Compatible kernel
+* [AxleOS][174] - Axle OS is a hobby microkernel and userspace
+* [egos-2000][175] - With only 2k lines of code, egos-2000 implements every component of an OS for education; it supports RISC-V boards and QEMU.
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -444,3 +446,5 @@ A curated list of awesome computing/programming resources.
 [171]: https://disasm.pro/
 [172]: https://programming-language-benchmarks.vercel.app/
 [173]: https://xorvoid.com/sectorc.html
+[174]: https://axleos.com/
+[175]: https://github.com/yhzhang0128/egos-2000
