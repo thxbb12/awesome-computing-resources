@@ -105,6 +105,8 @@ A curated list of awesome computing/programming resources.
 * [BBC microbit][112] - The BBC micro:bit is a pocket-sized computer that introduces you to how software and hardware work together
 * [BBC microbit hardware][113] - Detailed description of the BBC micro:bit's hardware
 * [linux emb yocto][167] - Linux embarqué avec Yocto Project
+* [Linux Yocto Cooker Imbriqué][179] - Imbriquer des systèmes Linux avec Yocto Cooker
+* [U-Boot programming][180] - U-Boot programming tutorial 
 
 ## Filesystems
 * [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
@@ -273,6 +275,8 @@ A curated list of awesome computing/programming resources.
 * [virtio driver][166] - Virtio driver implementation example
 * [vmm from scratch][168] - Hypervisor from scratch using Intel VT-x
 * [containers from scratch][169] - Containers from scratch
+* [hypervisor][177] - A very simple hypervisor using the KVM API
+* [KVM hypercall][178] - A Deep Dive in KVM Hypercall
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -450,3 +454,7 @@ A curated list of awesome computing/programming resources.
 [174]: https://axleos.com/
 [175]: https://github.com/yhzhang0128/egos-2000
 [176]: https://linux-kernel-labs.github.io
+[177]: https://github.com/pdumais/hypervisor
+[178]: https://tianrenz2.github.io/KvmHypercall
+[179]: https://www.blaess.fr/christophe/2022/02/03/5973/
+[180]: http://www.xillybus.com/tutorials/uboot-hacking-howto-1
