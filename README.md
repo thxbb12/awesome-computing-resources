@@ -156,6 +156,7 @@ A curated list of awesome computing/programming resources.
 * [NixOS][36] - NixOS is a GNU/Linux distribution that aims to improve the state of the art in system configuration management (reliable and atomic upgrades, rollbacks, etc.)
 * [Guix][37] - Guix is a GNU/Linux distribution that supports transactional upgrades, rollbacks, unprivileged package management, etc.
 * [vramfs][170] - VRAM based file system for Linux
+* [Linux kernel teaching][176] - Collection of lectures and labs on the Linux kernel
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -448,3 +449,4 @@ A curated list of awesome computing/programming resources.
 [173]: https://xorvoid.com/sectorc.html
 [174]: https://axleos.com/
 [175]: https://github.com/yhzhang0128/egos-2000
+[176]: https://linux-kernel-labs.github.io
