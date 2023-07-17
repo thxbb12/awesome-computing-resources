@@ -159,6 +159,7 @@ A curated list of awesome computing/programming resources.
 * [Guix][37] - Guix is a GNU/Linux distribution that supports transactional upgrades, rollbacks, unprivileged package management, etc.
 * [vramfs][170] - VRAM based file system for Linux
 * [Linux kernel teaching][176] - Collection of lectures and labs on the Linux kernel
+* [Grml Live Linux][181] - Debian based Linux Live system
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -458,3 +459,4 @@ A curated list of awesome computing/programming resources.
 [178]: https://tianrenz2.github.io/KvmHypercall
 [179]: https://www.blaess.fr/christophe/2022/02/03/5973/
 [180]: http://www.xillybus.com/tutorials/uboot-hacking-howto-1
+[181]: https://grml.org/
