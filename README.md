@@ -181,6 +181,7 @@ A curated list of awesome computing/programming resources.
 * [tilck][140] -  A Tiny educational Linux-Compatible kernel
 * [AxleOS][174] - Axle OS is a hobby microkernel and userspace
 * [egos-2000][175] - With only 2k lines of code, egos-2000 implements every component of an OS for education; it supports RISC-V boards and QEMU.
+* [Debian Live][164] - The Debian Live project produces the framework used to build live systems based on Debian
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -246,7 +247,7 @@ A curated list of awesome computing/programming resources.
 * [bios keys][152] - Liste des touches accès au BIOS ou Boot menu par constructeur
 * [hello world][155] - Hello World under the microscope
 * [Cubic][163] - Custom Ubuntu ISO Creator
-* [Debian Live][164] - The Debian Live project produces the framework used to build live systems based on Debian
+* [OSTree][182] - OSTree is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -460,3 +461,4 @@ A curated list of awesome computing/programming resources.
 [179]: https://www.blaess.fr/christophe/2022/02/03/5973/
 [180]: http://www.xillybus.com/tutorials/uboot-hacking-howto-1
 [181]: https://grml.org/
+[182]: https://ostreedev.github.io/ostree/introduction/
