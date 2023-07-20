@@ -277,7 +277,7 @@ A curated list of awesome computing/programming resources.
 * [virtio driver][166] - Virtio driver implementation example
 * [vmm from scratch][168] - Hypervisor from scratch using Intel VT-x
 * [containers from scratch][169] - Containers from scratch
-* [hypervisor][177] - A very simple hypervisor using the KVM API
+* [hypervisor][177] - A very simple hypervisor using the KVM API (Patrick Dumais)
 * [KVM hypercall][178] - A Deep Dive in KVM Hypercall
 
 [1]: https://github.com/srdja/Collections-C
