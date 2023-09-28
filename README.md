@@ -83,6 +83,7 @@ A curated list of awesome computing/programming resources.
 * [orx][27] - Open source, portable, lightweight, plugin-based, data-driven and extremely easy to use 2D-oriented game engine (C)
 * [csfml][30] - Simple and Fast Multimedia Library to ease the development of games and multimedia applications (C)
 * [thebookofshaders][130] - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
+* [GPU arch explained][183] - GPU architecture types explained (Immediate-Mode vs Tile-Based rendering)
 
 ## Courses
 * [Awesome CS Courses][111] - Awesome Computer Science Courses
@@ -462,3 +463,4 @@ A curated list of awesome computing/programming resources.
 [180]: http://www.xillybus.com/tutorials/uboot-hacking-howto-1
 [181]: https://grml.org/
 [182]: https://ostreedev.github.io/ostree/introduction/
+[183]: https://www.rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
