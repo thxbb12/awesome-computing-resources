@@ -11,6 +11,7 @@ A curated list of awesome computing/programming resources.
 * [Compilation](#compilation)
 * [Computer graphics](#computer-graphics)
 * [Conferences](#conferences)
+* [Containers](#containers)
 * [Courses](#courses)
 * [Editors](#editors)
 * [Embedded systems](#embedded-systems)
@@ -31,6 +32,7 @@ A curated list of awesome computing/programming resources.
 * [Security](#security)
 * [Search engines](#search-engines)
 * [Shell](#shell)
+* [Software](#software)
 * [Systems](#systems)
 * [Text editors/processing](#text-editors)
 * [Tools](#tools)
@@ -90,6 +92,15 @@ A curated list of awesome computing/programming resources.
 
 ## Conferences
 * [fosdem][87] - FOSDEM talks archives. Free and Open source Software Developers' European Meeting (FOSDEM) is a non-commercial, volunteer-organized European event centered on free and open-source software development.
+
+## Containers
+* [Docker internals][55] - Docker Internals, a deep dive into Docker for engineers interested in the gritty details
+* [Under the hood of Docker][76] - Under the hood of Docker
+* [Containers 500LOC][110] - Linux containers in 500 lines of code
+* [rootless docker][159] - Run the Docker daemon as a non-root user
+* [containers from scratch][169] - Containers from scratch
+* [containerd][184] -  An open and reliable container runtime 
+* [runc][185] - CLI tool for spawning and running containers
 
 ## Editors
 * [zettlr][103] - Zettlr: A Markdown editor for the 21st century
@@ -214,6 +225,7 @@ A curated list of awesome computing/programming resources.
 * [apparmor guide][153] - The Comprehensive Guide To AppArmor
 * [openssh priv key][161] - Public key cryptography: OpenSSH private keys
 * [ssh tunneling][162] - SSH Tunneling Explained
+* [keycloak][186] - Open Source Identity and Access Management For Modern Applications and Services (Single Sign-On)
 
 ## Shell
 * [fzf][4] - A command-line fuzzy finder.
@@ -224,6 +236,9 @@ A curated list of awesome computing/programming resources.
 * [bat][40] - Syntax highlighting cat
 * [shellsheck][41] - finds bugs in your shell scripts.
 * [shfmt][42] - A shell parser, formatter, and interpreter (sh/bash/mksh)
+
+## Software
+* [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023
 
 ## Systems
 * [gocrazy][100] - Replace Linux' core system layer by a pure and safe Go implementation
@@ -249,6 +264,7 @@ A curated list of awesome computing/programming resources.
 * [hello world][155] - Hello World under the microscope
 * [Cubic][163] - Custom Ubuntu ISO Creator
 * [OSTree][182] - OSTree is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees
+* [modern-unix][188] - A collection of modern/faster/saner alternatives to common unix commands
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -268,16 +284,11 @@ A curated list of awesome computing/programming resources.
 * [xen guide][80] - Xen Project Beginners Guide
 * [xen modes][81] - Xen Modes: What Color Is Your Xen?
 * [Ravada][77] - Free, easy-to-use & deploy VDI solution. Ravada is an open-source project that allows users to connect to a virtual desktop.
-* [Docker internals][55] - Docker Internals, a deep dive into Docker for engineers interested in the gritty details
-* [Under the hood of Docker][76] - Under the hood of Docker
-* [Containers 500LOC][110] - Linux containers in 500 lines of code
 * [MMU virt via Intel EPT][134] - MMU Virtualization via Intel EPT: Implementation
 * [hypervisor-from-scratch][135] - Series of tutorials about implementing an hypervisor
-* [rootless docker][159] - Run the Docker daemon as a non-root user
+* [vmm from scratch][168] - Hypervisor from scratch using Intel VT-x
 * [embvm-core][160] - Embedded Virtual Machine Core Project
 * [virtio driver][166] - Virtio driver implementation example
-* [vmm from scratch][168] - Hypervisor from scratch using Intel VT-x
-* [containers from scratch][169] - Containers from scratch
 * [hypervisor][177] - A very simple hypervisor using the KVM API (Patrick Dumais)
 * [KVM hypercall][178] - A Deep Dive in KVM Hypercall
 
@@ -464,3 +475,8 @@ A curated list of awesome computing/programming resources.
 [181]: https://grml.org/
 [182]: https://ostreedev.github.io/ostree/introduction/
 [183]: https://www.rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
+[184]: https://github.com/containerd/containerd
+[185]: https://github.com/opencontainers/runc
+[186]: https://www.keycloak.org/
+[187]: https://tonsky.me/blog/unicode/
+[188]: https://github.com/ibraheemdev/modern-unix
