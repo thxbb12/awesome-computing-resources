@@ -369,7 +369,7 @@ A curated list of awesome computing/programming resources.
 [75]: https://github.com/google/novm
 [76]: https://debugged.it/blog/under-the-hood-of-docker/
 [77]: https://ravada.upc.edu/#get-started
-[78]: http://libmill.org/index.html
+[78]: https://github.com/sustrik/libmill
 [79]: https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
 [80]: https://wiki.xenproject.org/wiki/Xen_Project_Beginners_Guide
 [81]: http://www.brendangregg.com/blog/2014-05-07/what-color-is-your-xen.html
