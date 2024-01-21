@@ -140,6 +140,9 @@ A curated list of awesome computing/programming resources.
 * [awesome-go][115] - A curated list of awesome Go frameworks, libraries and software
 * [go-101][116] - Go 101 is a series of books on Go programming
 * [echo][117] - Echo is a high performance, extensible, minimalist Go web framework
+* [chi][189] - A lightweight, idiomatic and composable router for building Go HTTP services
+* [gin][190] - The fastest full-featured web framework for Go
+* [webrpc][191] - webrpc is a schema-driven approach to writing backend services for modern Web apps and networks
 * [go documentation][118] - Official Go documentation
 * [Effective Go][121] - Effective Go short book
 * [Go by Example][122] - Go by Example is a hands-on introduction to Go using annotated example programs
@@ -480,3 +483,6 @@ A curated list of awesome computing/programming resources.
 [186]: https://www.keycloak.org/
 [187]: https://tonsky.me/blog/unicode/
 [188]: https://github.com/ibraheemdev/modern-unix
+[189]: https://go-chi.io/#/
+[190]: https://gin-gonic.com/
+[191]: https://github.com/webrpc/webrpc
