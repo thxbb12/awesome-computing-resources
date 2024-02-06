@@ -153,6 +153,8 @@ A curated list of awesome computing/programming resources.
 * [golang tutorials][131] - Golang tutorial series
 * [go for C dev][132] - Go for C programmers
 * [Organizing Go code][133] - Organizing Go code
+* [Golang Goroutine Scheduler][192] - Understanding the Golang Goroutine Scheduler GPM Model
+* [tview][193] - Terminal UI library with rich, interactive widgets (even "graphics")
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -486,3 +488,5 @@ A curated list of awesome computing/programming resources.
 [189]: https://go-chi.io/#/
 [190]: https://gin-gonic.com/
 [191]: https://github.com/webrpc/webrpc
+[192]: https://dev.to/aceld/understanding-the-golang-goroutine-scheduler-gpm-model-4l1g
+[193]: https://github.com/rivo/tview
