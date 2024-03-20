@@ -273,6 +273,8 @@ A curated list of awesome computing/programming resources.
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
+* [Typst][194] - Typst is a new open-source typesetting system that is powerful and easy to learn, inspired by LaTeX
+* [Quarto][195] - An open-source scientific and technical publishing system
 
 ## Tools
 * [osboxes.org][11] - OS images ready to use with VirtualBox or VMware.
@@ -490,3 +492,5 @@ A curated list of awesome computing/programming resources.
 [191]: https://github.com/webrpc/webrpc
 [192]: https://dev.to/aceld/understanding-the-golang-goroutine-scheduler-gpm-model-4l1g
 [193]: https://github.com/rivo/tview
+[194]: https://typst.app/
+[195]: https://quarto.org/
