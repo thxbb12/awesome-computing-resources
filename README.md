@@ -274,6 +274,8 @@ A curated list of awesome computing/programming resources.
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
 * [Typst][194] - Typst is a new open-source typesetting system that is powerful and easy to learn, inspired by LaTeX
+* [Polylux][197] - Polylux: package for Typst to create presentation slides
+* [Touying][196] - Touying is a powerful and efficient package for creating presentation slides in Typst
 * [Quarto][195] - An open-source scientific and technical publishing system
 
 ## Tools
@@ -494,3 +496,5 @@ A curated list of awesome computing/programming resources.
 [193]: https://github.com/rivo/tview
 [194]: https://typst.app/
 [195]: https://quarto.org/
+[196]: https://typst.app/universe/template/touying
+[197]: https://polylux.dev/book/polylux.html
