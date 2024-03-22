@@ -300,6 +300,7 @@ A curated list of awesome computing/programming resources.
 * [virtio driver][166] - Virtio driver implementation example
 * [hypervisor][177] - A very simple hypervisor using the KVM API (Patrick Dumais)
 * [KVM hypercall][178] - A Deep Dive in KVM Hypercall
+* [Nanos][198] - Nanos is a new kernel designed to run one and only one application in a virtualized environment
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -498,3 +499,4 @@ A curated list of awesome computing/programming resources.
 [195]: https://quarto.org/
 [196]: https://typst.app/universe/template/touying
 [197]: https://polylux.dev/book/polylux.html
+[198]: https://github.com/nanovms/nanos
