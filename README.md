@@ -178,6 +178,7 @@ A curated list of awesome computing/programming resources.
 * [Linux kernel teaching][176] - Collection of lectures and labs on the Linux kernel
 * [Grml Live Linux][181] - Debian based Linux Live system
 * [Slax][199] - Slax is a compact, fast, modern and customizable Linux distro that can be generated into an ISO image.
+* [cubic][202] - Cubic is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -506,3 +507,4 @@ A curated list of awesome computing/programming resources.
 [199]: https://www.slax.org/
 [200]: https://github.com/Rylern/SpiceGTK-tutorial
 [201]: https://github.com/Shells-com/spice
+[202]: https://github.com/PJ-Singh-001/Cubic
