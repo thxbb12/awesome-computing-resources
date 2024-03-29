@@ -177,6 +177,7 @@ A curated list of awesome computing/programming resources.
 * [vramfs][170] - VRAM based file system for Linux
 * [Linux kernel teaching][176] - Collection of lectures and labs on the Linux kernel
 * [Grml Live Linux][181] - Debian based Linux Live system
+* [Slax][199] - Slax is a compact, fast, modern and customizable Linux distro that can be generated into an ISO image.
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -500,3 +501,4 @@ A curated list of awesome computing/programming resources.
 [196]: https://typst.app/universe/template/touying
 [197]: https://polylux.dev/book/polylux.html
 [198]: https://github.com/nanovms/nanos
+[199]: https://www.slax.org/
