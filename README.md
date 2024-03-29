@@ -303,6 +303,7 @@ A curated list of awesome computing/programming resources.
 * [KVM hypercall][178] - A Deep Dive in KVM Hypercall
 * [Nanos][198] - Nanos is a new kernel designed to run one and only one application in a virtualized environment
 * [spice-gtk-tutorial][200] - Tutorial for creating a VM Viewer with Spice-GTK 
+* [go-spice][201] - Pure Go implementation of the Spice protocol 
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -504,3 +505,4 @@ A curated list of awesome computing/programming resources.
 [198]: https://github.com/nanovms/nanos
 [199]: https://www.slax.org/
 [200]: https://github.com/Rylern/SpiceGTK-tutorial
+[201]: https://github.com/Shells-com/spice
