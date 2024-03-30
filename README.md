@@ -180,6 +180,8 @@ A curated list of awesome computing/programming resources.
 * [Slax][199] - Slax is a compact, fast, modern and customizable Linux distro that can be generated into an ISO image.
 * [cubic][202] - Cubic is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.
 * [monogon][203] - Monogon OS is open-source, secure, API-driven, minimal, based on Linux and Kubernetes, with a clean userland rebuilt entirely from scratch in pure Go and eliminates decades worth of legacy code and unnecessary complexity.
+* [mkusb][204] - mkusb is a simple, safe tool to create a bootable drive from an iso image or a compressed image file.
+* [ubuntu-autoinstall-generator-tools][205] - A script to generate a fully-automated ISO image for installing Ubuntu onto a machine without human interaction.
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -510,3 +512,5 @@ A curated list of awesome computing/programming resources.
 [201]: https://github.com/Shells-com/spice
 [202]: https://github.com/PJ-Singh-001/Cubic
 [203]: https://monogon.tech/monogon_os.html
+[204]: https://help.ubuntu.com/community/mkusb
+[205]: https://github.com/lefeck/ubuntu-autoinstall-generator-tools?tab=readme-ov-file
