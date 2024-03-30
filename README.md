@@ -179,6 +179,7 @@ A curated list of awesome computing/programming resources.
 * [Grml Live Linux][181] - Debian based Linux Live system
 * [Slax][199] - Slax is a compact, fast, modern and customizable Linux distro that can be generated into an ISO image.
 * [cubic][202] - Cubic is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.
+* [monogon][203] - Monogon OS is open-source, secure, API-driven, minimal, based on Linux and Kubernetes, with a clean userland rebuilt entirely from scratch in pure Go and eliminates decades worth of legacy code and unnecessary complexity.
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
@@ -508,3 +509,4 @@ A curated list of awesome computing/programming resources.
 [200]: https://github.com/Rylern/SpiceGTK-tutorial
 [201]: https://github.com/Shells-com/spice
 [202]: https://github.com/PJ-Singh-001/Cubic
+[203]: https://monogon.tech/monogon_os.html
