@@ -86,6 +86,7 @@ A curated list of awesome computing/programming resources.
 * [csfml][30] - Simple and Fast Multimedia Library to ease the development of games and multimedia applications (C)
 * [thebookofshaders][130] - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 * [GPU arch explained][183] - GPU architecture types explained (Immediate-Mode vs Tile-Based rendering)
+* [raylib][206] - raylib is a simple and easy-to-use library to enjoy videogames programming.
 
 ## Courses
 * [Awesome CS Courses][111] - Awesome Computer Science Courses
@@ -123,6 +124,7 @@ A curated list of awesome computing/programming resources.
 ## Filesystems
 * [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
 * [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
+* [seaweedfs][207] - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -514,3 +516,5 @@ A curated list of awesome computing/programming resources.
 [203]: https://monogon.tech/monogon_os.html
 [204]: https://help.ubuntu.com/community/mkusb
 [205]: https://github.com/lefeck/ubuntu-autoinstall-generator-tools?tab=readme-ov-file
+[206]: https://www.raylib.com/
+[207]: https://github.com/seaweedfs/seaweedfs
