@@ -102,6 +102,7 @@ A curated list of awesome computing/programming resources.
 * [containers from scratch][169] - Containers from scratch
 * [containerd][184] -  An open and reliable container runtime 
 * [runc][185] - CLI tool for spawning and running containers
+* [x11docker][208] - Run GUI applications and desktops in docker and podman containers.
 
 ## Editors
 * [zettlr][103] - Zettlr: A Markdown editor for the 21st century
@@ -518,3 +519,4 @@ A curated list of awesome computing/programming resources.
 [205]: https://github.com/lefeck/ubuntu-autoinstall-generator-tools?tab=readme-ov-file
 [206]: https://www.raylib.com/
 [207]: https://github.com/seaweedfs/seaweedfs
+[208]: https://github.com/mviereck/x11docker
