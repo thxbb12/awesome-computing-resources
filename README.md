@@ -8,15 +8,15 @@ A curated list of awesome computing/programming resources.
 * [Books](#books)
 * [Bootloaders](#bootloaders)
 * [C](#c)
+* [Cloud Computing](#cloud-computing)
 * [Compilation](#compilation)
-* [Computer graphics](#computer-graphics)
+* [Computer Graphics](#computer-graphics)
 * [Conferences](#conferences)
 * [Containers](#containers)
 * [Courses](#courses)
 * [Editors](#editors)
-* [Embedded systems](#embedded-systems)
+* [Embedded Systems](#embedded-systems)
 * [Hacks](#hacks)
-* [Filesystems](#filesystems)
 * [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
@@ -24,15 +24,16 @@ A curated list of awesome computing/programming resources.
 * [Hacks](#hacks)
 * [Hardware](#hardware)
 * [Linux](#linux)
-* [Machine learning](#machine-learning)
+* [Machine öearning](#machine-learning)
 * [Networking](#networking)
-* [Operating systems](#operating-systems)
+* [Operating Systems](#operating-systems)
 * [Programming](#programming)
 * [Rust](#rust)
 * [Security](#security)
-* [Search engines](#search-engines)
+* [Search Engines](#search-engines)
 * [Shell](#shell)
 * [Software](#software)
+* [Storage](#storage)
 * [Systems](#systems)
 * [Text editors/processing](#text-editors)
 * [Tools](#tools)
@@ -70,6 +71,9 @@ A curated list of awesome computing/programming resources.
 * [libmill][78] - Libmill is a library that introduces Go-style concurrency to C.
 * [coroutines C][79] - Coroutines in C.
 * [SectorC][173] - SectorC: A C Compiler in 512 bytes.
+
+## Cloud Computing
+* [openfaas][214] - Serverless Functions Made Simple
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
@@ -121,11 +125,6 @@ A curated list of awesome computing/programming resources.
 * [linux emb yocto][167] - Linux embarqué avec Yocto Project
 * [Linux Yocto Cooker Imbriqué][179] - Imbriquer des systèmes Linux avec Yocto Cooker
 * [U-Boot programming][180] - U-Boot programming tutorial 
-
-## Filesystems
-* [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
-* [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
-* [seaweedfs][207] - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -188,6 +187,7 @@ A curated list of awesome computing/programming resources.
 
 ## Machine learning
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
+* [huggingface][211] - The platform where the machine learning community collaborates on models, datasets, and applications. 
 
 ## Networking
 * [IPFS][61] - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
@@ -207,6 +207,8 @@ A curated list of awesome computing/programming resources.
 * [AxleOS][174] - Axle OS is a hobby microkernel and userspace
 * [egos-2000][175] - With only 2k lines of code, egos-2000 implements every component of an OS for education; it supports RISC-V boards and QEMU.
 * [Debian Live][164] - The Debian Live project produces the framework used to build live systems based on Debian
+* [gopher-os][212] - A proof of concept OS kernel written in Go
+* [Multicians][213] - Presents the story of the Multics OS for people interested in the system's history
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -215,6 +217,7 @@ A curated list of awesome computing/programming resources.
 * [ttt-bench][123] - Benchmark comparing the speed of many languages on a Tic-Tac-Toe solver
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
 * [Language benchmarks][172] Programming language and compiler benchmarks
+* [ncurses howto][215] - NCURSES Programming HOWTO
 
 ## Rust
 * [The Rust Programming Language][24] - Book "The Rust Programming Language book"
@@ -252,6 +255,13 @@ A curated list of awesome computing/programming resources.
 
 ## Software
 * [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023
+
+## Storage
+* [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
+* [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
+* [seaweedfs][207] - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
+* [btrfs][209] - BTRFS official documentation
+* [timeshift][210] - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. 
 
 ## Systems
 * [gocrazy][100] - Replace Linux' core system layer by a pure and safe Go implementation
@@ -520,3 +530,10 @@ A curated list of awesome computing/programming resources.
 [206]: https://www.raylib.com/
 [207]: https://github.com/seaweedfs/seaweedfs
 [208]: https://github.com/mviereck/x11docker
+[209]: https://btrfs.readthedocs.io/en/latest/Introduction.html
+[210]: https://github.com/linuxmint/timeshift
+[211]: https://huggingface.co/
+[212]: https://github.com/gopher-os/gopher-os
+[213]: https://www.multicians.org/
+[214]: https://github.com/openfaas/faas
+[215]: https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
