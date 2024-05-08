@@ -91,6 +91,7 @@ A curated list of awesome computing/programming resources.
 * [thebookofshaders][130] - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 * [GPU arch explained][183] - GPU architecture types explained (Immediate-Mode vs Tile-Based rendering)
 * [raylib][206] - raylib is a simple and easy-to-use library to enjoy videogames programming.
+* [lodes computer gfx tutorial][216] - Lode's Computer Graphics Tutorial
 
 ## Courses
 * [Awesome CS Courses][111] - Awesome Computer Science Courses
@@ -537,3 +538,4 @@ A curated list of awesome computing/programming resources.
 [213]: https://www.multicians.org/
 [214]: https://github.com/openfaas/faas
 [215]: https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+[216]: https://lodev.org/cgtutor/
