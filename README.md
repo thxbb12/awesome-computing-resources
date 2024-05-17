@@ -84,8 +84,6 @@ A curated list of awesome computing/programming resources.
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
 * [simple2d][26] - Small, open-source graphics engine providing essential 2D drawing, media, and input capabilities (C)
-* [raylib][28] - A simple and easy-to-use C library to enjoy video games programming (2D, 3D, audio, input)
-* [raylib for Linux][29] - How to build raylib on Linux
 * [orx][27] - Open source, portable, lightweight, plugin-based, data-driven and extremely easy to use 2D-oriented game engine (C)
 * [csfml][30] - Simple and Fast Multimedia Library to ease the development of games and multimedia applications (C)
 * [thebookofshaders][130] - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
@@ -350,8 +348,6 @@ A curated list of awesome computing/programming resources.
 [25]: https://doc.rust-lang.org/nightly/embedded-book/index.html
 [26]: https://github.com/simple2d/simple2d
 [27]: http://orx-project.org/
-[28]: https://www.raylib.com/examples.html
-[29]: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux
 [30]: https://www.sfml-dev.org/download/csfml/
 [31]: https://scikit-learn.org/stable/
 [32]: https://www.godbolt.org/
