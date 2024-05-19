@@ -3,6 +3,7 @@
 A curated list of awesome computing/programming resources.
 
 ## Contents
+* [Artificial intelligence](#artifical-intelligence)
 * [Bioinformatics](#bioinformatics)
 * [Blogs](#blogs)
 * [Books](#books)
@@ -16,6 +17,7 @@ A curated list of awesome computing/programming resources.
 * [Courses](#courses)
 * [Editors](#editors)
 * [Embedded Systems](#embedded-systems)
+* [Emulation](#emulation)
 * [Hacks](#hacks)
 * [Funny](#funny)
 * [Games](#games)
@@ -24,7 +26,6 @@ A curated list of awesome computing/programming resources.
 * [Hacks](#hacks)
 * [Hardware](#hardware)
 * [Linux](#linux)
-* [Machine öearning](#machine-learning)
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [Programming](#programming)
@@ -38,6 +39,11 @@ A curated list of awesome computing/programming resources.
 * [Text editors/processing](#text-editors)
 * [Tools](#tools)
 * [Virtualization](#virtualization)
+
+## Artificial intelligence
+* [scikit-learn][31] - Simple and efficient machine learning tools in Python
+* [huggingface][211] - The platform where the machine learning community collaborates on models, datasets, and applications. 
+* [llm.c][223] - LLM training in simple, raw C/CUDA
 
 ## Bioinformatics
 * [openms][46] - OpenMS is an open-source C++ library for LC-MS data management and analysis (github [here](https://github.com/OpenMS)).
@@ -90,6 +96,8 @@ A curated list of awesome computing/programming resources.
 * [GPU arch explained][183] - GPU architecture types explained (Immediate-Mode vs Tile-Based rendering)
 * [raylib][206] - raylib is a simple and easy-to-use library to enjoy videogames programming.
 * [lodes computer gfx tutorial][216] - Lode's Computer Graphics Tutorial
+* [automatic1111][218] - Stable Diffusion AI is a latent diffusion model for generating AI images
+* [iopaint][220] - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people, etc. from your pictures.
 
 ## Courses
 * [Awesome CS Courses][111] - Awesome Computer Science Courses
@@ -124,6 +132,12 @@ A curated list of awesome computing/programming resources.
 * [linux emb yocto][167] - Linux embarqué avec Yocto Project
 * [Linux Yocto Cooker Imbriqué][179] - Imbriquer des systèmes Linux avec Yocto Cooker
 * [U-Boot programming][180] - U-Boot programming tutorial 
+* [rauc][217] - Safe and secure software updates for embedded Linux
+
+## Emulation
+* [advanced qemu][221] - Advanced configuration for QEMU
+* [DOSBox-X][225] - Open-source DOS/Win3.x/Win9x emulator for running DOS/windows applications and games. It is much more flexible and provides more features than DOSBox.
+* [dosbox-x options][226] - DOSBox-X's Command-Line Options
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -156,6 +170,7 @@ A curated list of awesome computing/programming resources.
 * [Organizing Go code][133] - Organizing Go code
 * [Golang Goroutine Scheduler][192] - Understanding the Golang Goroutine Scheduler GPM Model
 * [tview][193] - Terminal UI library with rich, interactive widgets (even "graphics")
+* [reflection go][219] - Reflection in Go: Use cases and tutorial
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -184,10 +199,6 @@ A curated list of awesome computing/programming resources.
 * [mkusb][204] - mkusb is a simple, safe tool to create a bootable drive from an iso image or a compressed image file.
 * [ubuntu-autoinstall-generator-tools][205] - A script to generate a fully-automated ISO image for installing Ubuntu onto a machine without human interaction.
 
-## Machine learning
-* [scikit-learn][31] - Simple and efficient machine learning tools in Python
-* [huggingface][211] - The platform where the machine learning community collaborates on models, datasets, and applications. 
-
 ## Networking
 * [IPFS][61] - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
 * [sshuttle][125] - Transparent proxy server that works as a poor man's VPN. Forwards over ssh.
@@ -196,6 +207,7 @@ A curated list of awesome computing/programming resources.
 * [Genode][105] - The Genode OS Framework is a tool kit for building highly secure special-purpose operating systems
 * [Plan9][97] - Plan 9 from Bell Labs is a distributed OS designed to make a network of heterogeneous and geographically separated computers function as a single system
 * [Inferno][98] - Inferno was created to bring ideas of Plan to a wider range of devices and networks
+* [Inferno doc][224] - Inferno documentation
 * [HelenOS][99] - HelenOS is a portable microkernel-based multiserver operating system designed and implemented from scratch
 * [Serenity OS][51] - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core
 * [x86-bare-metal-examples][52] - Dozens of minimal operating systems to learn x86 system programming
@@ -287,6 +299,7 @@ A curated list of awesome computing/programming resources.
 * [Cubic][163] - Custom Ubuntu ISO Creator
 * [OSTree][182] - OSTree is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees
 * [modern-unix][188] - A collection of modern/faster/saner alternatives to common unix commands
+* [kerrisk talks][222] - Michael Kerrisk Linux/kernel conferences' talks
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -535,3 +548,13 @@ A curated list of awesome computing/programming resources.
 [214]: https://github.com/openfaas/faas
 [215]: https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
 [216]: https://lodev.org/cgtutor/
+[217]: https://github.com/rauc/rauc
+[218]: https://stable-diffusion-art.com/automatic1111/
+[219]: https://blog.logrocket.com/reflection-go-use-cases-tutorial/
+[220]: https://github.com/Sanster/IOPaint
+[221]: https://docs.blissos.org/installation/install-in-a-virtual-machine/advanced-qemu-config/
+[222]: https://www.youtube.com/playlist?list=PLPEqSODQbwFjVfdvqOz_ZOOto0SnjtPYx
+[223]: https://github.com/karpathy/llm.c
+[224]: https://www.inferno-os.org/inferno/
+[225]: https://dosbox-x.com/
+[226]: https://github.com/joncampbell123/dosbox-x/wiki/DOSBox%E2%80%90X%E2%80%99s-Command%E2%80%90Line-Options
