@@ -3,7 +3,7 @@
 A curated list of awesome computing/programming resources.
 
 ## Contents
-* [Artificial intelligence](#artifical-intelligence)
+* [Artificial intelligence](#artificial-intelligence)
 * [Bioinformatics](#bioinformatics)
 * [Blogs](#blogs)
 * [Books](#books)
