@@ -29,6 +29,7 @@ A curated list of awesome computing/programming resources.
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [Programming](#programming)
+* [Research papers](#research-papers)
 * [Rust](#rust)
 * [Security](#security)
 * [Search Engines](#search-engines)
@@ -229,6 +230,9 @@ A curated list of awesome computing/programming resources.
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
 * [Language benchmarks][172] Programming language and compiler benchmarks
 * [ncurses howto][215] - NCURSES Programming HOWTO
+
+## Research papers
+* [google research][227] - Papers published by Google Research in a wide range of fields.
 
 ## Rust
 * [The Rust Programming Language][24] - Book "The Rust Programming Language book"
@@ -558,3 +562,4 @@ A curated list of awesome computing/programming resources.
 [224]: https://www.inferno-os.org/inferno/
 [225]: https://dosbox-x.com/
 [226]: https://github.com/joncampbell123/dosbox-x/wiki/DOSBox%E2%80%90X%E2%80%99s-Command%E2%80%90Line-Options
+[227]: https://research.google/
