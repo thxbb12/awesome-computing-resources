@@ -304,6 +304,7 @@ A curated list of awesome computing/programming resources.
 * [OSTree][182] - OSTree is an upgrade system for Linux-based operating systems that performs atomic upgrades of complete filesystem trees
 * [modern-unix][188] - A collection of modern/faster/saner alternatives to common unix commands
 * [kerrisk talks][222] - Michael Kerrisk Linux/kernel conferences' talks
+* [zsync2][228] - zsync is designed for file distribution where only the new parts of the file are downloaded.
 
 ## Text editors
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
@@ -563,3 +564,4 @@ A curated list of awesome computing/programming resources.
 [225]: https://dosbox-x.com/
 [226]: https://github.com/joncampbell123/dosbox-x/wiki/DOSBox%E2%80%90X%E2%80%99s-Command%E2%80%90Line-Options
 [227]: https://research.google/
+[228]: https://github.com/AppImageCommunity/zsync2
