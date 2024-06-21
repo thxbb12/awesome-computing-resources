@@ -84,9 +84,11 @@ A curated list of awesome computing/programming resources.
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
-* [llvm backend][144] - Creating an LLVM Backend for the Cpu0 Architecture
+* [llvm backend cpu0][144] - Creating an LLVM Backend for the Cpu0 Architecture
 * [emscripten][165] - Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
 * [disasm.pro][171] - Online dissassembler for many architectures
+* [llvm backend][229] - Writing an LLVM Backend
+* [zig][230] - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
@@ -565,3 +567,5 @@ A curated list of awesome computing/programming resources.
 [226]: https://github.com/joncampbell123/dosbox-x/wiki/DOSBox%E2%80%90X%E2%80%99s-Command%E2%80%90Line-Options
 [227]: https://research.google/
 [228]: https://github.com/AppImageCommunity/zsync2
+[229]: https://llvm.org/docs/WritingAnLLVMBackend.html
+[230]: https://ziglang.org/
