@@ -136,6 +136,7 @@ A curated list of awesome computing/programming resources.
 * [Linux Yocto Cooker Imbriqué][179] - Imbriquer des systèmes Linux avec Yocto Cooker
 * [U-Boot programming][180] - U-Boot programming tutorial 
 * [rauc][217] - Safe and secure software updates for embedded Linux
+* [Linux userspace examples][231] - Repository providing Linux application examples for common communication protocols: SPI, I2C, UART
 
 ## Emulation
 * [advanced qemu][221] - Advanced configuration for QEMU
@@ -569,3 +570,4 @@ A curated list of awesome computing/programming resources.
 [228]: https://github.com/AppImageCommunity/zsync2
 [229]: https://llvm.org/docs/WritingAnLLVMBackend.html
 [230]: https://ziglang.org/
+[231]: https://github.com/Digilent/linux-userspace-examples
