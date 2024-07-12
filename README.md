@@ -137,6 +137,8 @@ A curated list of awesome computing/programming resources.
 * [U-Boot programming][180] - U-Boot programming tutorial 
 * [rauc][217] - Safe and secure software updates for embedded Linux
 * [Linux userspace examples][231] - Repository providing Linux application examples for common communication protocols: SPI, I2C, UART
+* [Zephyr project][232] - Zephyr is a small RTOS for connected, resource-constrained and embedded devices supporting multiple architectures.
+* [NuttX][233] - Apache NuttX is a highly scalable RTOS featuring small footprint and standards compliance (UNIX, POSIX, ANSI).
 
 ## Emulation
 * [advanced qemu][221] - Advanced configuration for QEMU
@@ -571,3 +573,5 @@ A curated list of awesome computing/programming resources.
 [229]: https://llvm.org/docs/WritingAnLLVMBackend.html
 [230]: https://ziglang.org/
 [231]: https://github.com/Digilent/linux-userspace-examples
+[232]: https://www.zephyrproject.org/
+[233]: https://nuttx.apache.org/
