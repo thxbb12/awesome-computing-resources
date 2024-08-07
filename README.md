@@ -62,6 +62,10 @@ A curated list of awesome computing/programming resources.
 * [POSIX-UEFI][142] - Dependency-free POSIX compatibility layer and build environment for UEFI
 * [The rEFInd Boot Manager][15] - A boot manager for computers based on EFI and Unified EFI (UEFI).
 * [bootboot][86] - BOOTBOOT has the opposite philosophy than GRUB: a set of simple and small loaders which provide the same boot environment for your kernel on different 64-bits platforms.
+* [easyboot][234] - Easyboot is an all-in-one boot manager and bootable disk image creator that can load
+various OS kernels and Multiboot2 compliant kernels in various binary formats.
+* [simpleboot][235] - Easyboot's little brother, simpler, which loads a single kernel only.
+* [limine][236] - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * [Managing EFI Boot Loaders for Linux][16] - Resources on EFI boot, secure boot, boot loaders and managers.
 * [UEFI boot][69] - UEFI boot: how does that actually work, then?
 * [Plop Boot Manager][17] - The Plop Boot Manager is a small program to boot different operating systems.
@@ -575,3 +579,6 @@ A curated list of awesome computing/programming resources.
 [231]: https://github.com/Digilent/linux-userspace-examples
 [232]: https://www.zephyrproject.org/
 [233]: https://nuttx.apache.org/
+[234]: https://gitlab.com/bztsrc/easyboot
+[235]: https://gitlab.com/bztsrc/simpleboot
+[236]: https://github.com/limine-bootloader/limine
