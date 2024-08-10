@@ -25,6 +25,7 @@ A curated list of awesome computing/programming resources.
 * [Graphs/charts/diagrams](#graphs-charts-diagrams)
 * [Hacks](#hacks)
 * [Hardware](#hardware)
+* [Languages](#languages)
 * [Linux](#linux)
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
@@ -54,6 +55,7 @@ A curated list of awesome computing/programming resources.
 * [Christine Dodrill][47] - Christine Dodrill's blog (web and backend services devops)
 * [Mathieu Ropert][57] - A blog about C++ with a bit of a French touch
 * [The Overflow][58] - The Stackoverflow Blog
+* [Drew DeVault][240] - Drew DeVault is the creator of the Hare language, founder of SourceHut, author of the Wayland book, etc.
 
 ## Books
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
@@ -194,6 +196,12 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [piper][90] - The Piper Computer Kit is the ultimate DIY computer-building experience. Build a REAL computer from start to finish.
 * [how dram works][154] - How does Computer Memory Work?
 
+## Languages
+* [Language benchmarks][172] Programming language and compiler benchmarks.
+* [Hare language][241] - Hare is statically-typed systems programming language designed to be simple, stable, and robust.
+* [Zig language][242] - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+* [V language][243] - V is a statically typed compiled programming language designed for building maintainable software.
+
 ## Linux
 * [Linux Kernel Monkey Log][19] - Greg Kroah-Hartman's blog (Linux kernel maintainer)
 * [Linux Kernel in a Nutshell][20] - The "Linux kernel in a nutshell" free book from O'Reilly
@@ -230,6 +238,9 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [Debian Live][164] - The Debian Live project produces the framework used to build live systems based on Debian
 * [gopher-os][212] - A proof of concept OS kernel written in Go
 * [Multicians][213] - Presents the story of the Multics OS for people interested in the system's history
+* [Little book OSdev][237] - The little book about OS development is a practical guide to writing your own x86 operating system.
+* [Bredan mult-tasking][238] - Tutorial describing how to implement software multi-tasking and task switching for x86.
+* [Unix clone in a month][239] - Writing a Unix clone in about a month.
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -237,7 +248,6 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [meson build][120] - Meson is an open source build system meant to be both extremely fast, and as user friendly as possible
 * [ttt-bench][123] - Benchmark comparing the speed of many languages on a Tic-Tac-Toe solver
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
-* [Language benchmarks][172] Programming language and compiler benchmarks
 * [ncurses howto][215] - NCURSES Programming HOWTO
 
 ## Research papers
@@ -278,7 +288,8 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [shfmt][42] - A shell parser, formatter, and interpreter (sh/bash/mksh)
 
 ## Software
-* [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023
+* [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023.
+* [sourcehut][244] - SourceHut is a 100% open source, not owned by company, git forge.
 
 ## Storage
 * [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
@@ -582,3 +593,11 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [234]: https://gitlab.com/bztsrc/easyboot
 [235]: https://gitlab.com/bztsrc/simpleboot
 [236]: https://github.com/limine-bootloader/limine
+[237]: https://littleosbook.github.io/
+[238]: https://wiki.osdev.org/Brendan%27s_Multi-tasking_Tutorial
+[239]: https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html
+[240]: https://drewdevault.com/
+[241]: https://harelang.org/
+[242]: https://ziglang.org/
+[243]: https://vlang.io/
+[244]: https://sourcehut.org/
