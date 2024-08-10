@@ -94,7 +94,7 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [emscripten][165] - Emscripten is a complete compiler toolchain to WebAssembly, using LLVM
 * [disasm.pro][171] - Online dissassembler for many architectures
 * [llvm backend][229] - Writing an LLVM Backend
-* [zig][230] - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+* [qbe][242] - QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code.
 
 ## Computer Graphics
 * [scratchapixel][7] - Mathematics and Physics for Computer Graphics
@@ -199,7 +199,7 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 ## Languages
 * [Language benchmarks][172] Programming language and compiler benchmarks.
 * [Hare language][241] - Hare is statically-typed systems programming language designed to be simple, stable, and robust.
-* [Zig language][242] - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+* [Zig language][230] - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 * [V language][243] - V is a statically typed compiled programming language designed for building maintainable software.
 
 ## Linux
@@ -598,6 +598,6 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [239]: https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html
 [240]: https://drewdevault.com/
 [241]: https://harelang.org/
-[242]: https://ziglang.org/
+[242]: https://c9x.me/compile/
 [243]: https://vlang.io/
 [244]: https://sourcehut.org/
