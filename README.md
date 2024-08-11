@@ -216,6 +216,7 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [monogon][203] - Monogon OS is open-source, secure, API-driven, minimal, based on Linux and Kubernetes, with a clean userland rebuilt entirely from scratch in pure Go and eliminates decades worth of legacy code and unnecessary complexity.
 * [mkusb][204] - mkusb is a simple, safe tool to create a bootable drive from an iso image or a compressed image file.
 * [ubuntu-autoinstall-generator-tools][205] - A script to generate a fully-automated ISO image for installing Ubuntu onto a machine without human interaction.
+* [binfmt_misc][245] - Kernel feature that allows you to invoke almost every program by simply typing its name in the shell (e.g. compiled Java or Python programs).
 
 ## Networking
 * [IPFS][61] - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open
@@ -601,3 +602,4 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [242]: https://c9x.me/compile/
 [243]: https://vlang.io/
 [244]: https://sourcehut.org/
+[245]: https://www.kernel.org/doc/html/latest/admin-guide/binfmt-misc.html
