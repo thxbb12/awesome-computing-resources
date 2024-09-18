@@ -16,8 +16,10 @@ A curated list of awesome computing/programming resources.
 * [Containers](#containers)
 * [Courses](#courses)
 * [Editors](#editors)
+* [Education](#education)
 * [Embedded Systems](#embedded-systems)
 * [Emulation](#emulation)
+* [Encoding](#Encoding)
 * [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
@@ -30,6 +32,7 @@ A curated list of awesome computing/programming resources.
 * [Operating Systems](#operating-systems)
 * [People](#people)
 * [Programming](#programming)
+* [Repositories](#repositories)
 * [Research papers](#research-papers)
 * [Rust](#rust)
 * [Security](#security)
@@ -127,6 +130,9 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 ## Editors
 * [zettlr][103] - Zettlr: A Markdown editor for the 21st century
 
+## Education
+* [AMC][248] - Create and manage multiple choice questionnaires (MCQ), with automated marking.
+
 ## Embedded Systems
 * [TinyGo][101] - A Go compiler for microcontrollers
 * [MicroPython][88] - Implementation of Python 3 for microcontrollers which includes a small subset of the Python standard library
@@ -150,6 +156,9 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [advanced qemu][221] - Advanced configuration for QEMU
 * [DOSBox-X][225] - Open-source DOS/Win3.x/Win9x emulator for running DOS/windows applications and games. It is much more flexible and provides more features than DOSBox.
 * [dosbox-x options][226] - DOSBox-X's Command-Line Options
+
+## Encoding
+* [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023.
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -255,6 +264,9 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
 * [ncurses howto][215] - NCURSES Programming HOWTO
 
+## Repositories
+* [sourcehut][244] - SourceHut is a 100% open source, not owned by company, git forge.
+
 ## Research papers
 * [google research][227] - Papers published by Google Research in a wide range of fields.
 
@@ -291,10 +303,6 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [bat][40] - Syntax highlighting cat
 * [shellsheck][41] - finds bugs in your shell scripts.
 * [shfmt][42] - A shell parser, formatter, and interpreter (sh/bash/mksh)
-
-## Software
-* [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023.
-* [sourcehut][244] - SourceHut is a 100% open source, not owned by company, git forge.
 
 ## Storage
 * [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
@@ -609,3 +617,4 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [245]: https://www.kernel.org/doc/html/latest/admin-guide/binfmt-misc.html
 [246]: https://tinytapeout.com/
 [247]: https://bellard.org/
+[248]: https://www.auto-multiple-choice.net/
