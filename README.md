@@ -28,6 +28,7 @@ A curated list of awesome computing/programming resources.
 * [Linux](#linux)
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
+* [People](#people)
 * [Programming](#programming)
 * [Research papers](#research-papers)
 * [Rust](#rust)
@@ -242,6 +243,9 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [Little book OSdev][237] - The little book about OS development is a practical guide to writing your own x86 operating system.
 * [Bredan mult-tasking][238] - Tutorial describing how to implement software multi-tasking and task switching for x86.
 * [Unix clone in a month][239] - Writing a Unix clone in about a month.
+
+## People
+* [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
 
 ## Programming
 * [programming books][45] - Programming books (huge number of resources on many programming languages)
@@ -604,3 +608,4 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [244]: https://sourcehut.org/
 [245]: https://www.kernel.org/doc/html/latest/admin-guide/binfmt-misc.html
 [246]: https://tinytapeout.com/
+[247]: https://bellard.org/
