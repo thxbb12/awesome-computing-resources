@@ -18,7 +18,6 @@ A curated list of awesome computing/programming resources.
 * [Editors](#editors)
 * [Embedded Systems](#embedded-systems)
 * [Emulation](#emulation)
-* [Hacks](#hacks)
 * [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
@@ -195,6 +194,7 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 ## Hardware
 * [piper][90] - The Piper Computer Kit is the ultimate DIY computer-building experience. Build a REAL computer from start to finish.
 * [how dram works][154] - How does Computer Memory Work?
+* [tiny tapeout][246] - Tiny Tapeout is an educational project that makes it easier and cheaper than ever to get your designs manufactured on a real chip!
 
 ## Languages
 * [Language benchmarks][172] Programming language and compiler benchmarks.
@@ -603,3 +603,4 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [243]: https://vlang.io/
 [244]: https://sourcehut.org/
 [245]: https://www.kernel.org/doc/html/latest/admin-guide/binfmt-misc.html
+[246]: https://tinytapeout.com/
