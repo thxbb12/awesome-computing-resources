@@ -87,6 +87,7 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [libmill][78] - Libmill is a library that introduces Go-style concurrency to C.
 * [coroutines C][79] - Coroutines in C.
 * [SectorC][173] - SectorC: A C Compiler in 512 bytes.
+* [matrix oo][249] - Sample matrix implementation illustrating object-oriented techniques in C99.
 
 ## Cloud Computing
 * [openfaas][214] - Serverless Functions Made Simple
@@ -618,3 +619,4 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [246]: https://tinytapeout.com/
 [247]: https://bellard.org/
 [248]: https://www.auto-multiple-choice.net/
+[249]: https://github.com/sysprog21/matrix_oo
