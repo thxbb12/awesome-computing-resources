@@ -67,8 +67,7 @@ A curated list of awesome computing/programming resources.
 * [POSIX-UEFI][142] - Dependency-free POSIX compatibility layer and build environment for UEFI
 * [The rEFInd Boot Manager][15] - A boot manager for computers based on EFI and Unified EFI (UEFI).
 * [bootboot][86] - BOOTBOOT has the opposite philosophy than GRUB: a set of simple and small loaders which provide the same boot environment for your kernel on different 64-bits platforms.
-* [easyboot][234] - Easyboot is an all-in-one boot manager and bootable disk image creator that can load
-various OS kernels and Multiboot2 compliant kernels in various binary formats.
+* [easyboot][234] - Easyboot is an all-in-one boot manager and bootable disk image creator that can load various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [simpleboot][235] - Easyboot's little brother, simpler, which loads a single kernel only.
 * [limine][236] - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * [Managing EFI Boot Loaders for Linux][16] - Resources on EFI boot, secure boot, boot loaders and managers.
@@ -193,6 +192,8 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 * [Golang Goroutine Scheduler][192] - Understanding the Golang Goroutine Scheduler GPM Model
 * [tview][193] - Terminal UI library with rich, interactive widgets (even "graphics")
 * [reflection go][219] - Reflection in Go: Use cases and tutorial
+* [common go mistakes][250] - 100 Common Go Mistakes
+* [slice gotchas][251] - Why appending to slice in Golang is dangerous? Common Slice Gotchas
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
@@ -620,3 +621,5 @@ various OS kernels and Multiboot2 compliant kernels in various binary formats.
 [247]: https://bellard.org/
 [248]: https://www.auto-multiple-choice.net/
 [249]: https://github.com/sysprog21/matrix_oo
+[250]: https://100go.co/
+[251]: https://codefibershq.com/blog/golang-why-appending-to-slice-is-dangerous-common-slice-gotchas
