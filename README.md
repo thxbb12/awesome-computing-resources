@@ -58,6 +58,7 @@ A curated list of awesome computing/programming resources.
 * [Mathieu Ropert][57] - A blog about C++ with a bit of a French touch
 * [The Overflow][58] - The Stackoverflow Blog
 * [Drew DeVault][240] - Drew DeVault is the creator of the Hare language, founder of SourceHut, author of the Wayland book, etc.
+* [confessions of a code addict][254] - Passionate software engineer with a knack for turning complex ideas into simple solutions; insights and experiences from over a decade in the tech industry.
 
 ## Books
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
@@ -626,3 +627,4 @@ A curated list of awesome computing/programming resources.
 [251]: https://codefibershq.com/blog/golang-why-appending-to-slice-is-dangerous-common-slice-gotchas
 [252]: https://github.com/WerWolv/ImHex
 [253]: https://wizardzines.com/comics/
+[254]: https://blog.codingconfessions.com/
