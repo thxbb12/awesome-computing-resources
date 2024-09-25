@@ -38,7 +38,6 @@ A curated list of awesome computing/programming resources.
 * [Security](#security)
 * [Search Engines](#search-engines)
 * [Shell](#shell)
-* [Software](#software)
 * [Storage](#storage)
 * [Systems](#systems)
 * [Text editors/processing](#text-editors)
@@ -265,6 +264,7 @@ A curated list of awesome computing/programming resources.
 * [ttt-bench][123] - Benchmark comparing the speed of many languages on a Tic-Tac-Toe solver
 * [Benchmarks Game][124] Compare the performance of many languages across many tests
 * [ncurses howto][215] - NCURSES Programming HOWTO
+* [wizard zines][253] - Programming zines by Julia Evans
 
 ## Repositories
 * [sourcehut][244] - SourceHut is a 100% open source, not owned by company, git forge.
@@ -352,6 +352,7 @@ A curated list of awesome computing/programming resources.
 * [osboxes.org][11] - OS images ready to use with VirtualBox or VMware.
 * [gitignore.io][13] - Create useful .gitignore files for your project.
 * [Cool, but obscure unix tools][39] - A little collection of cool unix terminal/console/curses tools
+* [ImHex][252] - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM
 
 ## Virtualization
 * [ARM virtualization][106] - An in-depth look into the ARM virtualization extensions
@@ -623,3 +624,5 @@ A curated list of awesome computing/programming resources.
 [249]: https://github.com/sysprog21/matrix_oo
 [250]: https://100go.co/
 [251]: https://codefibershq.com/blog/golang-why-appending-to-slice-is-dangerous-common-slice-gotchas
+[252]: https://github.com/WerWolv/ImHex
+[253]: https://wizardzines.com/comics/
