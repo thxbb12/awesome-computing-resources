@@ -9,6 +9,7 @@ A curated list of awesome computing/programming resources.
 * [Books](#books)
 * [Bootloaders](#bootloaders)
 * [C](#c)
+* [Ceph](#ceph)
 * [Cloud Computing](#cloud-computing)
 * [Compilation](#compilation)
 * [Computer Graphics](#computer-graphics)
@@ -87,6 +88,10 @@ A curated list of awesome computing/programming resources.
 * [coroutines C][79] - Coroutines in C.
 * [SectorC][173] - SectorC: A C Compiler in 512 bytes.
 * [matrix oo][249] - Sample matrix implementation illustrating object-oriented techniques in C99.
+
+## Ceph
+* [qemu ceph rbd perf][255] - Performance tuning of QEMU on Ceph rbd storage
+* [ceph rbd snapshots][256] - Ceph rbd snapshots
 
 ## Cloud Computing
 * [openfaas][214] - Serverless Functions Made Simple
@@ -628,3 +633,5 @@ A curated list of awesome computing/programming resources.
 [252]: https://github.com/WerWolv/ImHex
 [253]: https://wizardzines.com/comics/
 [254]: https://blog.codingconfessions.com/
+[255]: https://ceph.io/en/news/blog/2022/qemu-kvm-tuning/
+[256]: https://docs.ceph.com/en/quincy/rbd/rbd-snapshot/
