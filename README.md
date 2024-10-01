@@ -92,6 +92,7 @@ A curated list of awesome computing/programming resources.
 ## Ceph
 * [qemu ceph rbd perf][255] - Performance tuning of QEMU on Ceph rbd storage
 * [ceph rbd snapshots][256] - Ceph rbd snapshots
+* [ceph cheatsheet][257] - Ceph Cheatsheet
 
 ## Cloud Computing
 * [openfaas][214] - Serverless Functions Made Simple
@@ -635,3 +636,4 @@ A curated list of awesome computing/programming resources.
 [254]: https://blog.codingconfessions.com/
 [255]: https://ceph.io/en/news/blog/2022/qemu-kvm-tuning/
 [256]: https://docs.ceph.com/en/quincy/rbd/rbd-snapshot/
+[257]: https://github.com/TheJJ/ceph-cheatsheet
