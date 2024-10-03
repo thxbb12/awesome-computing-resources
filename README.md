@@ -10,12 +10,12 @@ A curated list of awesome computing/programming resources.
 * [Bootloaders](#bootloaders)
 * [C](#c)
 * [Ceph](#ceph)
-* [Cloud Computing](#cloud-computing)
 * [Compilation](#compilation)
 * [Computer Graphics](#computer-graphics)
 * [Conferences](#conferences)
 * [Containers](#containers)
 * [Courses](#courses)
+* [Distributed Computing](#distributed-computing)
 * [Editors](#editors)
 * [Education](#education)
 * [Embedded Systems](#embedded-systems)
@@ -94,9 +94,6 @@ A curated list of awesome computing/programming resources.
 * [ceph rbd snapshots][256] - Ceph rbd snapshots
 * [ceph cheatsheet][257] - Ceph Cheatsheet
 
-## Cloud Computing
-* [openfaas][214] - Serverless Functions Made Simple
-
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
 * [llvm backend cpu0][144] - Creating an LLVM Backend for the Cpu0 Architecture
@@ -132,6 +129,11 @@ A curated list of awesome computing/programming resources.
 * [containerd][184] -  An open and reliable container runtime 
 * [runc][185] - CLI tool for spawning and running containers
 * [x11docker][208] - Run GUI applications and desktops in docker and podman containers.
+
+## Distributed Computing
+* [openfaas][214] - Serverless Functions Made Simple
+* [raft][258] - The Raft Consensus Algorithm
+* [raft go][259] - Golang implementation of the Raft consensus algorithm
 
 ## Editors
 * [zettlr][103] - Zettlr: A Markdown editor for the 21st century
@@ -637,3 +639,5 @@ A curated list of awesome computing/programming resources.
 [255]: https://ceph.io/en/news/blog/2022/qemu-kvm-tuning/
 [256]: https://docs.ceph.com/en/quincy/rbd/rbd-snapshot/
 [257]: https://github.com/TheJJ/ceph-cheatsheet
+[258]: https://raft.github.io/
+[259]: https://github.com/hashicorp/raft
