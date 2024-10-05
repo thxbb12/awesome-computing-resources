@@ -262,6 +262,7 @@ A curated list of awesome computing/programming resources.
 * [Little book OSdev][237] - The little book about OS development is a practical guide to writing your own x86 operating system.
 * [Bredan mult-tasking][238] - Tutorial describing how to implement software multi-tasking and task switching for x86.
 * [Unix clone in a month][239] - Writing a Unix clone in about a month.
+* [osdev-notes][260] - A book that explore how to write an Operating System from scratch.
 
 ## People
 * [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
@@ -641,3 +642,4 @@ A curated list of awesome computing/programming resources.
 [257]: https://github.com/TheJJ/ceph-cheatsheet
 [258]: https://raft.github.io/
 [259]: https://github.com/hashicorp/raft
+[260]: https://github.com/dreamportdev/Osdev-Notes
