@@ -357,6 +357,7 @@ A curated list of awesome computing/programming resources.
 * [Polylux][197] - Polylux: package for Typst to create presentation slides
 * [Touying][196] - Touying is a powerful and efficient package for creating presentation slides in Typst
 * [Quarto][195] - An open-source scientific and technical publishing system
+* [presenterm][261] - Create presentations in markdown format and run them from your terminal
 
 ## Tools
 * [osboxes.org][11] - OS images ready to use with VirtualBox or VMware.
@@ -643,3 +644,4 @@ A curated list of awesome computing/programming resources.
 [258]: https://raft.github.io/
 [259]: https://github.com/hashicorp/raft
 [260]: https://github.com/dreamportdev/Osdev-Notes
+[261]: https://mfontanini.github.io/presenterm/
