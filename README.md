@@ -210,6 +210,7 @@ A curated list of awesome computing/programming resources.
 * [destreamer][49] - destreamer, save Microsoft Stream videos for offline enjoyment
 * [pihole][91] - Block ads for all devices inside your network with a Raspberry Pi
 * [pihole setup][92] - How To Set Up Pi-hole
+* [yt-dlp][262] - A feature-rich command-line audio/video downloader
 
 ## Hardware
 * [piper][90] - The Piper Computer Kit is the ultimate DIY computer-building experience. Build a REAL computer from start to finish.
@@ -645,3 +646,4 @@ A curated list of awesome computing/programming resources.
 [259]: https://github.com/hashicorp/raft
 [260]: https://github.com/dreamportdev/Osdev-Notes
 [261]: https://mfontanini.github.io/presenterm/
+[262]: https://github.com/yt-dlp/yt-dlp
