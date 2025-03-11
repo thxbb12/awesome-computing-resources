@@ -353,6 +353,7 @@ A curated list of awesome computing/programming resources.
 * [zsync2][228] - zsync is designed for file distribution where only the new parts of the file are downloaded.
 
 ## Text editors
+* [Textidote][263] - Correction tool for LaTeX: spelling, grammar, etc.
 * [Basic Markdown Syntax][84] - Basic Markdown Syntax
 * [Typst][194] - Typst is a new open-source typesetting system that is powerful and easy to learn, inspired by LaTeX
 * [Polylux][197] - Polylux: package for Typst to create presentation slides
@@ -647,3 +648,4 @@ A curated list of awesome computing/programming resources.
 [260]: https://github.com/dreamportdev/Osdev-Notes
 [261]: https://mfontanini.github.io/presenterm/
 [262]: https://github.com/yt-dlp/yt-dlp
+[263]: https://sylvainhalle.github.io/textidote/
