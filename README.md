@@ -387,6 +387,8 @@ A curated list of awesome computing/programming resources.
 * [Nanos][198] - Nanos is a new kernel designed to run one and only one application in a virtualized environment
 * [spice-gtk-tutorial][200] - Tutorial for creating a VM Viewer with Spice-GTK 
 * [go-spice][201] - Pure Go implementation of the Spice protocol 
+* [Hypervisor-From-Scratch][264] - Mmulti-part series of tutorials "Hypervisor From Scratch"
+* [vbox][265] - VirtualBox source code (mirror)
 
 [1]: https://github.com/srdja/Collections-C
 [2]: https://cheats.rs/
@@ -649,3 +651,5 @@ A curated list of awesome computing/programming resources.
 [261]: https://mfontanini.github.io/presenterm/
 [262]: https://github.com/yt-dlp/yt-dlp
 [263]: https://sylvainhalle.github.io/textidote/
+[264]: https://github.com/SinaKarvandi/Hypervisor-From-Scratch
+[265]: https://github.com/mirror/vbox
