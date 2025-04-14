@@ -264,6 +264,7 @@ A curated list of awesome computing/programming resources.
 * [Bredan mult-tasking][238] - Tutorial describing how to implement software multi-tasking and task switching for x86.
 * [Unix clone in a month][239] - Writing a Unix clone in about a month.
 * [osdev-notes][260] - A book that explore how to write an Operating System from scratch.
+* [darwin-xnu][266] - Apple’s Darwin OS and XNU Kernel Deep Dive
 
 ## People
 * [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
@@ -653,3 +654,4 @@ A curated list of awesome computing/programming resources.
 [263]: https://sylvainhalle.github.io/textidote/
 [264]: https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 [265]: https://github.com/mirror/vbox
+[266]: https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/
