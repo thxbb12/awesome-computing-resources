@@ -49,6 +49,10 @@ A curated list of awesome computing/programming resources.
 * [scikit-learn][31] - Simple and efficient machine learning tools in Python
 * [huggingface][211] - The platform where the machine learning community collaborates on models, datasets, and applications. 
 * [llm.c][223] - LLM training in simple, raw C/CUDA
+* [napkin][267] - Turns your text into visuals so sharing your ideas is quick and effective
+* [gamma][268] - AI design partner for effortless presentations, websites, social media posts, and more
+* [bolt][269] - AI-powered web development platform which allows developers to build, run, edit, and deploy full-stack web apps directly from their browser without writing any code
+* [ahaslides][270] - The all-in-one AI platform for interactive and impactful  presentations
 
 ## Bioinformatics
 * [openms][46] - OpenMS is an open-source C++ library for LC-MS data management and analysis (github [here](https://github.com/OpenMS)).
@@ -655,3 +659,7 @@ A curated list of awesome computing/programming resources.
 [264]: https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 [265]: https://github.com/mirror/vbox
 [266]: https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/
+[267]: https://www.napkin.ai/
+[268]: https://gamma.app/
+[269]: https://bolt.new/
+[270]: https://ahaslides.com/
