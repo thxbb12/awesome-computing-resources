@@ -55,6 +55,7 @@ A curated list of awesome computing/programming resources.
 * [ahaslides][270] - The all-in-one AI platform for interactive and impactful  presentations
 * [heygen][271] - AI Video Generator, no Camera Needed. HeyGen AI turns text to video in only a few minutes.
 * [elevenlabs][272] - Create the most realistic speech with our AI audio platform. Pioneering research in Text to Speech and AI Voice Generator.
+* [teachablemachine][273] - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create ML models for your sites, apps, and more.
 
 ## Bioinformatics
 * [openms][46] - OpenMS is an open-source C++ library for LC-MS data management and analysis (github [here](https://github.com/OpenMS)).
@@ -667,3 +668,4 @@ A curated list of awesome computing/programming resources.
 [270]: https://ahaslides.com/
 [271]: https://www.heygen.com/
 [272]: https://elevenlabs.io/
+[273]: https://teachablemachine.withgoogle.com/
