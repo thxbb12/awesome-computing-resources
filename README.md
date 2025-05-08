@@ -53,6 +53,8 @@ A curated list of awesome computing/programming resources.
 * [gamma][268] - AI design partner for effortless presentations, websites, social media posts, and more
 * [bolt][269] - AI-powered web development platform which allows developers to build, run, edit, and deploy full-stack web apps directly from their browser without writing any code
 * [ahaslides][270] - The all-in-one AI platform for interactive and impactful  presentations
+* [heygen][271] - AI Video Generator, no Camera Needed. HeyGen AI turns text to video in only a few minutes.
+* [elevenlabs][272] - Create the most realistic speech with our AI audio platform. Pioneering research in Text to Speech and AI Voice Generator.
 
 ## Bioinformatics
 * [openms][46] - OpenMS is an open-source C++ library for LC-MS data management and analysis (github [here](https://github.com/OpenMS)).
@@ -663,3 +665,5 @@ A curated list of awesome computing/programming resources.
 [268]: https://gamma.app/
 [269]: https://bolt.new/
 [270]: https://ahaslides.com/
+[271]: https://www.heygen.com/
+[272]: https://elevenlabs.io/
