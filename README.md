@@ -9,7 +9,6 @@ A curated list of awesome computing/programming resources.
 * [Books](#books)
 * [Bootloaders](#bootloaders)
 * [C](#c)
-* [Ceph](#ceph)
 * [Compilation](#compilation)
 * [Computer Graphics](#computer-graphics)
 * [Conferences](#conferences)
@@ -20,7 +19,8 @@ A curated list of awesome computing/programming resources.
 * [Education](#education)
 * [Embedded Systems](#embedded-systems)
 * [Emulation](#emulation)
-* [Encoding](#Encoding)
+* [Encoding](#encoding)
+* [Filesystems/storage](#filesystems-storage)
 * [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
@@ -39,7 +39,6 @@ A curated list of awesome computing/programming resources.
 * [Security](#security)
 * [Search Engines](#search-engines)
 * [Shell](#shell)
-* [Storage](#storage)
 * [Systems](#systems)
 * [Text editors/processing](#text-editors)
 * [Tools](#tools)
@@ -55,7 +54,7 @@ A curated list of awesome computing/programming resources.
 * [ahaslides][270] - The all-in-one AI platform for interactive and impactful  presentations
 * [heygen][271] - AI Video Generator, no Camera Needed. HeyGen AI turns text to video in only a few minutes.
 * [elevenlabs][272] - Create the most realistic speech with our AI audio platform. Pioneering research in Text to Speech and AI Voice Generator.
-* [teachablemachine][273] - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create ML models for your sites, apps, and more.
+* [teachablemachine][275] - Train a computer to recognize your own images, sounds, & poses. A fast, easy way to create ML models for your sites, apps, and more.
 
 ## Bioinformatics
 * [openms][46] - OpenMS is an open-source C++ library for LC-MS data management and analysis (github [here](https://github.com/OpenMS)).
@@ -95,11 +94,6 @@ A curated list of awesome computing/programming resources.
 * [coroutines C][79] - Coroutines in C.
 * [SectorC][173] - SectorC: A C Compiler in 512 bytes.
 * [matrix oo][249] - Sample matrix implementation illustrating object-oriented techniques in C99.
-
-## Ceph
-* [qemu ceph rbd perf][255] - Performance tuning of QEMU on Ceph rbd storage
-* [ceph rbd snapshots][256] - Ceph rbd snapshots
-* [ceph cheatsheet][257] - Ceph Cheatsheet
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
@@ -174,6 +168,17 @@ A curated list of awesome computing/programming resources.
 
 ## Encoding
 * [unicode][187] - The Absolute Minimum Every Software Developer Must Know About Unicode in 2023.
+
+## Filesystems storage
+* [qemu ceph rbd perf][255] - Performance tuning of QEMU on Ceph rbd storage
+* [ceph rbd snapshots][256] - Ceph rbd snapshots
+* [ceph cheatsheet][257] - Ceph Cheatsheet
+* [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
+* [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
+* [seaweedfs][207] - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
+* [btrfs][209] - BTRFS official documentation
+* [timeshift][210] - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. 
+* [vectorvfs][274] - VectorVFS transforms your Linux filesystem into a vector database by leveraging the native VFS extended attributes
 
 ## Funny
 * [scigen][41] - An Automatic Computer Science Paper Generator
@@ -272,6 +277,7 @@ A curated list of awesome computing/programming resources.
 * [Unix clone in a month][239] - Writing a Unix clone in about a month.
 * [osdev-notes][260] - A book that explore how to write an Operating System from scratch.
 * [darwin-xnu][266] - Apple’s Darwin OS and XNU Kernel Deep Dive
+* [osle][273] - https://shikaan.github.io/osle/
 
 ## People
 * [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
@@ -324,13 +330,6 @@ A curated list of awesome computing/programming resources.
 * [bat][40] - Syntax highlighting cat
 * [shellsheck][41] - finds bugs in your shell scripts.
 * [shfmt][42] - A shell parser, formatter, and interpreter (sh/bash/mksh)
-
-## Storage
-* [ext4 explained][156] - Ext4 filesystem explained: data blocks, super blocks, inode structure
-* [ntfs cluster alloc][157] - Disk Cluster Allocation Behavior in Windows and NTFS
-* [seaweedfs][207] - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files!
-* [btrfs][209] - BTRFS official documentation
-* [timeshift][210] - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. 
 
 ## Systems
 * [gocrazy][100] - Replace Linux' core system layer by a pure and safe Go implementation
@@ -669,3 +668,5 @@ A curated list of awesome computing/programming resources.
 [271]: https://www.heygen.com/
 [272]: https://elevenlabs.io/
 [273]: https://teachablemachine.withgoogle.com/
+[274]: https://vectorvfs.readthedocs.io/en/latest/index.html
+[275]: https://shikaan.github.io/osle/
