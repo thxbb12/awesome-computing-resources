@@ -21,12 +21,12 @@ A curated list of awesome computing/programming resources.
 * [Emulation](#emulation)
 * [Encoding](#encoding)
 * [Filesystems/storage](#filesystems-storage)
-* [Funny](#funny)
 * [Games](#games)
 * [Golang](#golang)
 * [Graphs/charts/diagrams](#graphs-charts-diagrams)
 * [Hacks](#hacks)
 * [Hardware](#hardware)
+* [Jokes](#jokes)
 * [Languages](#languages)
 * [Linux](#linux)
 * [Networking](#networking)
@@ -180,9 +180,6 @@ A curated list of awesome computing/programming resources.
 * [timeshift][210] - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. 
 * [vectorvfs][274] - VectorVFS transforms your Linux filesystem into a vector database by leveraging the native VFS extended attributes
 
-## Funny
-* [scigen][41] - An Automatic Computer Science Paper Generator
-
 ## Games
 * [bevy][89] - A refreshingly simple data-driven game engine built in Rust
 * [godot][145] - Godot is a cross-platform, free and open-source game engine
@@ -228,6 +225,11 @@ A curated list of awesome computing/programming resources.
 * [piper][90] - The Piper Computer Kit is the ultimate DIY computer-building experience. Build a REAL computer from start to finish.
 * [how dram works][154] - How does Computer Memory Work?
 * [tiny tapeout][246] - Tiny Tapeout is an educational project that makes it easier and cheaper than ever to get your designs manufactured on a real chip!
+
+## Jokes
+* [scigen][41] - An Automatic Computer Science Paper Generator
+* [turnoff us][276] - webcomic that explores the worlds of programming, operating systems, and tech professional life
+* [xkcd][277] - A webcomic of romance, sarcasm, math, and language
 
 ## Languages
 * [Language benchmarks][172] Programming language and compiler benchmarks.
@@ -670,3 +672,5 @@ A curated list of awesome computing/programming resources.
 [273]: https://teachablemachine.withgoogle.com/
 [274]: https://vectorvfs.readthedocs.io/en/latest/index.html
 [275]: https://shikaan.github.io/osle/
+[276]: https://turnoff.us/
+[277]: https://xkcd.com/
