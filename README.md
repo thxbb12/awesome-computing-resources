@@ -15,6 +15,7 @@ A curated list of awesome computing/programming resources.
 * [Containers](#containers)
 * [Courses](#courses)
 * [Distributed Computing](#distributed-computing)
+* [Documentation](#documentation)
 * [Editors](#editors)
 * [Education](#education)
 * [Embedded Systems](#embedded-systems)
@@ -26,6 +27,7 @@ A curated list of awesome computing/programming resources.
 * [Graphs/charts/diagrams](#graphs-charts-diagrams)
 * [Hacks](#hacks)
 * [Hardware](#hardware)
+* [History](#history)
 * [Jokes](#jokes)
 * [Languages](#languages)
 * [Linux](#linux)
@@ -136,6 +138,9 @@ A curated list of awesome computing/programming resources.
 * [raft][258] - The Raft Consensus Algorithm
 * [raft go][259] - Golang implementation of the Raft consensus algorithm
 
+## Documentation
+* [tldr pages][280] - Simplified and community-driven man pages.
+
 ## Editors
 * [zettlr][103] - Zettlr: A Markdown editor for the 21st century
 
@@ -226,6 +231,9 @@ A curated list of awesome computing/programming resources.
 * [how dram works][154] - How does Computer Memory Work?
 * [tiny tapeout][246] - Tiny Tapeout is an educational project that makes it easier and cheaper than ever to get your designs manufactured on a real chip!
 
+## History
+* [Pessimists Archive][278] - Pessimists Archive is a project to jog our collective memories about the hysteria, technophobia and moral panic that often greets new technologies, ideas and trends
+
 ## Jokes
 * [scigen][41] - An Automatic Computer Science Paper Generator
 * [turnoff us][276] - webcomic that explores the worlds of programming, operating systems, and tech professional life
@@ -280,6 +288,7 @@ A curated list of awesome computing/programming resources.
 * [osdev-notes][260] - A book that explore how to write an Operating System from scratch.
 * [darwin-xnu][266] - Apple’s Darwin OS and XNU Kernel Deep Dive
 * [osle][273] - https://shikaan.github.io/osle/
+* [Asterinas][279] - Asterinas adopts the novel framekernel OS architecture, which unleashes the full power of Rust to bring the best of both monolithic kernels and microkernels.
 
 ## People
 * [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
@@ -669,8 +678,11 @@ A curated list of awesome computing/programming resources.
 [270]: https://ahaslides.com/
 [271]: https://www.heygen.com/
 [272]: https://elevenlabs.io/
-[273]: https://teachablemachine.withgoogle.com/
+[273]: https://shikaan.github.io/osle/
 [274]: https://vectorvfs.readthedocs.io/en/latest/index.html
-[275]: https://shikaan.github.io/osle/
+[275]: https://teachablemachine.withgoogle.com/
 [276]: https://turnoff.us/
 [277]: https://xkcd.com/
+[278]: https://pessimistsarchive.org/
+[279]: https://asterinas.github.io/
+[280]: https://tldr.sh/
