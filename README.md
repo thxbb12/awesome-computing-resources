@@ -289,6 +289,8 @@ A curated list of awesome computing/programming resources.
 * [darwin-xnu][266] - Apple’s Darwin OS and XNU Kernel Deep Dive
 * [osle][273] - https://shikaan.github.io/osle/
 * [Asterinas][279] - Asterinas adopts the novel framekernel OS architecture, which unleashes the full power of Rust to bring the best of both monolithic kernels and microkernels.
+* [Ghostery][281] - Powerful and easy-to-use privacy browser extension, block ads and trackers.
+* [uBlock Origin][282] - Open-source wide-spectrum content blocker with CPU and memory efficiency.
 
 ## People
 * [Fabrice Bellard][247] - Fabrice Bellard, the author of QEMU, ffmpeg
@@ -686,3 +688,5 @@ A curated list of awesome computing/programming resources.
 [278]: https://pessimistsarchive.org/
 [279]: https://asterinas.github.io/
 [280]: https://tldr.sh/
+[281]: https://www.ghostery.com/
+[282]: https://ublockorigin.com/
