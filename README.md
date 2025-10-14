@@ -25,6 +25,7 @@ A curated list of awesome computing/programming resources.
 * [Games](#games)
 * [Golang](#golang)
 * [Graphs/charts/diagrams](#graphs-charts-diagrams)
+* [GUI](#gui)
 * [Hacks](#hacks)
 * [Hardware](#hardware)
 * [History](#history)
@@ -219,6 +220,10 @@ A curated list of awesome computing/programming resources.
 
 ## Graphs charts diagrams
 * [asciiflow][66] - ASCIIFlow is a client-side only web based application for drawing ASCII diagrams. Git repository [here](https://github.com/lewish/asciiflow).
+
+## GUI
+* [nuklear][283] - A single-header ANSI C immediate mode cross-platform GUI library.
+* [raylib-nuklear][284] - Nuklear immediate mode GUI for raylib
 
 ## Hacks
 * [destreamer][49] - destreamer, save Microsoft Stream videos for offline enjoyment
@@ -690,3 +695,5 @@ A curated list of awesome computing/programming resources.
 [280]: https://tldr.sh/
 [281]: https://www.ghostery.com/
 [282]: https://ublockorigin.com/
+[283]: https://github.com/Immediate-Mode-UI/Nuklear
+[284]: https://github.com/RobLoach/raylib-nuklear
