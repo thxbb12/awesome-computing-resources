@@ -69,6 +69,7 @@ A curated list of awesome computing/programming resources.
 * [The Overflow][58] - The Stackoverflow Blog
 * [Drew DeVault][240] - Drew DeVault is the creator of the Hare language, founder of SourceHut, author of the Wayland book, etc.
 * [confessions of a code addict][254] - Passionate software engineer with a knack for turning complex ideas into simple solutions; insights and experiences from over a decade in the tech industry.
+* [Brent's Website][286] - Brent's Website (some Assembly required)
 
 ## Books
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
@@ -97,6 +98,7 @@ A curated list of awesome computing/programming resources.
 * [coroutines C][79] - Coroutines in C.
 * [SectorC][173] - SectorC: A C Compiler in 512 bytes.
 * [matrix oo][249] - Sample matrix implementation illustrating object-oriented techniques in C99.
+* [Brent’s C programming rules][285] - Brent’s C programming rules
 
 ## Compilation
 * [Godbolt][32] - Compile some code and watch the generated assembly for different programming languages.
@@ -697,3 +699,5 @@ A curated list of awesome computing/programming resources.
 [282]: https://ublockorigin.com/
 [283]: https://github.com/Immediate-Mode-UI/Nuklear
 [284]: https://github.com/RobLoach/raylib-nuklear
+[285]: https://retroscience.net/brents-c-programming-rules.html
+[286]: https://retroscience.net
