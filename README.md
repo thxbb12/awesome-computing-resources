@@ -70,6 +70,7 @@ A curated list of awesome computing/programming resources.
 * [Drew DeVault][240] - Drew DeVault is the creator of the Hare language, founder of SourceHut, author of the Wayland book, etc.
 * [confessions of a code addict][254] - Passionate software engineer with a knack for turning complex ideas into simple solutions; insights and experiences from over a decade in the tech industry.
 * [Brent's Website][286] - Brent's Website (some Assembly required)
+* [Ariadne's Space][288] - Ariadne's Space, pulling at the threads of complexity...
 
 ## Books
 * [SystemsApproach book][138] - Computer Networks: A Systems Approach
@@ -196,6 +197,7 @@ A curated list of awesome computing/programming resources.
 * [o3de][148] - O3DE is an open-source, multi-platform 3D engine
 * [panda3d][149] - Panda3D is an open-source, completely free-to-use engine for realtime 3D games
 * [phaser][150] - Phaser is a free and fast 2D game framework for making HTML5 games
+* [doomgeneric][289] - Doom is already portable but with doomgeneric it is possible with just a few functions
 
 ## Golang
 * [awesome-go][115] - A curated list of awesome Go frameworks, libraries and software
@@ -340,6 +342,7 @@ A curated list of awesome computing/programming resources.
 * [openssh priv key][161] - Public key cryptography: OpenSSH private keys
 * [ssh tunneling][162] - SSH Tunneling Explained
 * [keycloak][186] - Open Source Identity and Access Management For Modern Applications and Services (Single Sign-On)
+* [capsudo][287] - capsuso: rethinking sudo with object capabilities
 
 ## Shell
 * [fzf][4] - A command-line fuzzy finder.
@@ -701,3 +704,6 @@ A curated list of awesome computing/programming resources.
 [284]: https://github.com/RobLoach/raylib-nuklear
 [285]: https://retroscience.net/brents-c-programming-rules.html
 [286]: https://retroscience.net
+[287]: https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html
+[288]: https://ariadne.space/
+[289]: https://github.com/ozkl/doomgeneric
